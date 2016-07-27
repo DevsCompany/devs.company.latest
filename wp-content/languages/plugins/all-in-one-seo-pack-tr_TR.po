@@ -1,0 +1,3150 @@
+# Translation of Stable (latest release) in Turkish
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-24 13:35:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: admin/meta_import.php:79 admin/meta_import.php:85
+msgid "Sorry, you can't do that. Please choose a platform and then click Analyze or Convert."
+msgstr "Üzgünüz, bunu yapamazsınız. Lütfen bir platform seçin ve sonra analiz et ya da dönüştüre tıklayın."
+
+#: admin/meta_import.php:198
+msgid "Analyze"
+msgstr "Analiz et"
+
+#: admin/meta_import.php:199
+msgid "Convert"
+msgstr "Dönüştür"
+
+#: aioseop_class.php:452
+msgid "Capitalize Tag and Search Titles:"
+msgstr "Etiket ve arama başlıklarını büyük harfle başlat:"
+
+#: aioseop_class.php:3093
+msgid "New in 2.4: Improved support for taxonomies, Woocommerce and massive performance improvements under the hood! Please review your settings on each options page!"
+msgstr "2.4'te yeni: Sınıflandırmalar için iyileştirilmiş destek,  WooCommerce ve kitlesel performans iyileştirmeleri kaputun altında! Lütfen her seçenekler sayfasındaki ayarlarınızı gözden geçirin!"
+
+#: admin/meta_import.php:187
+msgid "Themes"
+msgstr "Temalar"
+
+#: admin/meta_import.php:149
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "SEO verisini içe aktarmak istediğiniz eklentiyi veya temayı seçmek için aşağıdaki açılır pencereyi kullanın."
+
+#: admin/meta_import.php:153
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into All in One SEO Pack, along with the number of records that will be imported."
+msgstr "All in One SEO Pack'in içine aktarılabilecek SEO verisinin yanı sıra içe aktarılacak kayıt sayısına ait bir liste için \"Analiz Et\"e tıklayın."
+
+#: admin/meta_import.php:157
+msgid "Please Note: "
+msgstr "Lütfen unutmayın:"
+
+#: admin/meta_import.php:157
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in All in One SEO Pack, we will not import data from another plugin/theme."
+msgstr "Bazı eklentiler ve temalar benzer verileri paylaşmamakta veya standart olmayan yöntemlerle veri depolamaktadır. Eğer bu verileri içe aktaramazsak, veri tabanınızda değişmemiş olarak kalacaktır. Uyumlu her SEO verisi, incelemeniz için görüntülenecektir. Eğer bir yazı veya sayfa All in One SEO Pack'te zaten SEO verisine sahipse, başka bir eklentiden/temadan  herhangi bir veriyi içe aktarmayacağız."
+
+#: admin/meta_import.php:161
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "İçe aktarmayı gerçekleştirmek için \"Dönüştür\"e tıklayın. İçe aktarım tamamlandıktan sonra, yukarıdaki kriter doğrultusunda, kaç kaydın içe aktarıldığı ve kaç kaydın göz ardı edildiği konusunda bilgilendirileceksiniz."
+
+#: admin/meta_import.php:165
+msgid "Before performing an import, we strongly recommend that you make a backup of your site. We use and recommend %s BackupBuddy %s for backups."
+msgstr "İçe aktarım gerçekleştirmeden önce, sitenizin yedeğini almanızı önemle tavsiye ediyoruz. Yedeklemeler için biz  %s BackupBuddy %s kullanıyor ve tavsiye ediyoruz."
+
+#: admin/meta_import.php:175
+msgid "Import SEO data from:"
+msgstr "SEO verisini şuradan içe aktar:"
+
+#: admin/meta_import.php:177
+msgid "Choose platform:"
+msgstr "Platform seçin:"
+
+#: admin/meta_import.php:179
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: admin/meta_import.php:94
+msgid "Analysis Results"
+msgstr "Analiz sonuçları"
+
+#: admin/meta_import.php:98 admin/meta_import.php:121
+msgid "Sorry, something went wrong. Please try again"
+msgstr "Üzgünüz, bir şeyler yanlış gitti. Lütfen tekrar deneyin"
+
+#: admin/meta_import.php:103
+msgid "<p>Analyzing records in a %s to %s conversion&hellip;"
+msgstr "<p> %s içindeki %s 'e dönüştürülecek veriler inceleniyor&hellip;"
+
+#: admin/meta_import.php:107
+msgid "Compatible data:"
+msgstr "Uyumlu veri:"
+
+#: admin/meta_import.php:117
+msgid "Conversion Results"
+msgstr "Dönüşüm sonuçları"
+
+#: admin/meta_import.php:146
+msgid "Import SEO Settings"
+msgstr "SEO ayarlarını içe aktar"
+
+#: admin/meta_import.php:28
+msgid "The plugin Yoast SEO has been detected. Do you want to %simport its settings%s into All in One SEO Pack?"
+msgstr "Yoast SEO eklentisi tespit edildi. Eklenti ayarlarını All in One SEO Pack'in %s içine aktarmak%s ister misiniz?"
+
+#: admin/meta_import.php:32
+msgid "The plugin All-In-One-SEO has been detected. Do you want to %simport its settings%s?"
+msgstr "All-In-One-SEO eklentisi tespit edildi. %sAyarlarını içeri aktarmak%s ister misiniz?"
+
+#: admin/meta_import.php:37
+msgid "All in One SEO has been deactivated"
+msgstr "All in One SEO etkisizleştirildi"
+
+#: admin/meta_import.php:62
+msgid "Import SEO Data"
+msgstr "SEO verilerini içe aktar"
+
+#: admin/meta_import.php:62
+msgid "SEO Data Import"
+msgstr "SEO verilerini içe aktar"
+
+#: modules/aioseop_feature_manager.php:75
+msgid "Pro Version Only"
+msgstr "Sadece pro sürüm"
+
+#: aioseop_class.php:3714
+msgid "We've detected you're running WooCommerce."
+msgstr "Uyarı: WooCommerce kullandığınızı tespit ettik."
+
+#: aioseop_class.php:3715
+msgid "%s Upgrade%s to All in One SEO Pack Pro for increased SEO compatibility for your products."
+msgstr "Ürünleriniz ile gelişmiş SEO uyumluğu sağlamak için All in One SEO Pack Pro'ya %s yükseltin %s."
+
+#: modules/aioseop_performance.php:324
+msgid "Check For Updates"
+msgstr "Güncellemeleri kontrol et"
+
+#. Description of the plugin/theme
+msgid "Out-of-the-box SEO for your WordPress blog. Features like XML Sitemaps, SEO for custom post types, SEO for blogs or business sites, SEO for ecommerce sites, and much more. Almost 30 million downloads since 2007."
+msgstr "WordPress blogunuz için ezber bozan SEO. XML Site Haritası, özelleştirilmiş yazı tipleri için SEO, bloglar veya ticari siteler için SEO, e-ticaret siteleri için SEO ve çok daha fazlasını içeren özellikler. 2007'den beri neredeyse 30 milyon indirme."
+
+#: inc/commonstrings.php:39
+msgid "Manage Licenses"
+msgstr "Lisansları yönet"
+
+#: modules/aioseop_bad_robots.php:24
+msgid "Block Referral Spam using HTTP."
+msgstr "HTTP kullanarak Yönlendirilen spam'ı engelle"
+
+#: modules/aioseop_bad_robots.php:34
+msgid "Block Bad Bots using HTTP"
+msgstr "HTTP kullanarak Kötü Botları engelle."
+
+#: modules/aioseop_bad_robots.php:35
+msgid "Block Referral Spam using HTTP"
+msgstr "HTTP kullanarak Yönlendirilen Spam'ı engelle."
+
+#: modules/aioseop_bad_robots.php:37
+msgid "Block Bad Bots using .htaccess"
+msgstr ".htaccess kullanarak kötü olan botları engelle."
+
+#: modules/aioseop_bad_robots.php:38
+msgid "Use Custom Blocklists"
+msgstr "Özelleştirilmiş engelleme listesi kullan"
+
+#: modules/aioseop_feature_manager.php:63
+msgid "Image SEO"
+msgstr "Görsel SEO"
+
+#: modules/aioseop_feature_manager.php:68
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Bu özelliği kullanarak video site haritanızı oluşturun ve yönetin ve video site haritanızı Google, Bing,Yahoo veya Ask.com'a gönderin."
+
+#: modules/aioseop_performance.php:300
+msgid "%s has checked for updates."
+msgstr "%s güncellemeler için kontrol edildi."
+
+#: inc/commonstrings.php:32
+msgid "Finished scanning posts"
+msgstr "Yazı taraması bitti"
+
+#: inc/commonstrings.php:35
+msgid "Purchase one now"
+msgstr "Hemen bir tane satın alın"
+
+#: inc/commonstrings.php:36
+msgid "License Key is not set yet or invalid. "
+msgstr "Lisans anahtarı henüz ayarlanmadı veya geçersiz."
+
+#: inc/commonstrings.php:37
+msgid " Need a license key?"
+msgstr "Bir lisans anahtarına mı ihtiyacınız var?"
+
+#: inc/commonstrings.php:38
+msgid "Notice: "
+msgstr "Bildirim:"
+
+#: inc/commonstrings.php:25
+msgid "Press the Scan button to scan your posts for videos! Do this if video content from a post or posts is not showing up in your sitemap."
+msgstr "Yazılarınızı videolar için taramak için Tara butonuna basın! Bunu, bir yazı veya yazılarınızın video içeriği site haritanızda gözükmüyorsa yapın."
+
+#: inc/commonstrings.php:26
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "İşaretliyse, site haritanızda içinde yalnızca video olan yazılarınız görüntülenecek."
+
+#: inc/commonstrings.php:27
+msgid "Enable this option to only allow access to your sitemap by site administrators and major search engines."
+msgstr "Site haritanıza yalnızca site yöneticilerinin ve büyük arama motorlarının erişebilmesi için bu seçeneği devreye alın."
+
+#: inc/commonstrings.php:28
+msgid "You do not have access to this page; try logging in as an administrator."
+msgstr "Bu sayfaya erişiminiz yok; yönetici olarak giriş yapmayı deneyin."
+
+#: inc/commonstrings.php:29
+msgid "Scan"
+msgstr "Tara"
+
+#: all_in_one_seo_pack.php:281
+msgid "Amazon Wishlist"
+msgstr "Amazon Wishlist"
+
+#: inc/commonstrings.php:22
+msgid "Show Only Posts With Videos"
+msgstr "Sadece videolu yazıları göster"
+
+#: inc/commonstrings.php:23
+msgid "Scan Posts For Videos"
+msgstr "Videolar için yazıları tara"
+
+#: inc/commonstrings.php:24
+msgid "Restrict Access to Video Sitemap"
+msgstr "Video Site Haritası Erişimini Kısıtla"
+
+#: all_in_one_seo_pack.php:333
+msgid "Upgrade to Pro"
+msgstr "Ücretli sürüme yükseltin"
+
+#: all_in_one_seo_pack.php:322
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+#: all_in_one_seo_pack.php:312
+msgid "SEO Settings"
+msgstr "SEO Ayarları"
+
+#: aioseop_class.php:3249
+msgid "%taxonomy_title% - The original title of the taxonomy"
+msgstr "%taxonomy_title% - Sınıflandırmanın orijinal başlığı"
+
+#: aioseop_class.php:3250
+msgid "%taxonomy_description% - The description of the taxonomy"
+msgstr "%taxonomy_description% - Sınıflandırmanın orijinal açıklaması"
+
+#: aioseop_class.php:3085
+msgid "Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "En güncel ve tüm zamanların en harika All in One SEO Pack Pro'sunu kullandığınız için teşekkürler! Her zaman yeni özellikler eklediğimizden, lütfen ayarlarınızı gözden geçirin"
+
+#: aioseop_class.php:3778
+msgid "Debug String"
+msgstr "Hata dizini ayıklama"
+
+#: aioseop_class.php:4973
+msgid "About"
+msgstr "Hakkında"
+
+#: aioseop_class.php:547
+msgid "SEO on only these taxonomies:"
+msgstr "Yalnızca bu sınıflandırmalar için SEO:"
+
+#: aioseop_class.php:999 all_in_one_seo_pack.php:317
+msgid "Support Forum"
+msgstr "Destek Forumları"
+
+#: aioseop_class.php:3235
+msgid "Taxonomy Title Format:"
+msgstr "Başlık Formatı Sınıflandırma:"
+
+#: aioseop_class.php:80
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "Bu ürün satın alındığında alınan ürünün lisans anahtarı olacaktır . Bu otomatik güncellemeler için kullanılır."
+
+#: aioseop_class.php:179
+msgid "Use these checkboxes to select which Taxonomies you want to use All in One SEO Pack with."
+msgstr "All in One SEO Pack ile hangi Sınıflandırmaları kullanmak istediğinizi seçmek için bu onay kutularını kullanın."
+
+#: aioseop_class.php:347
+msgid "License Key:"
+msgstr "Lisans Anahtarı:"
+
+#: aioseop_class.php:3692
+msgid "Warning: You're blocking access to search engines."
+msgstr "Dikkat: Arama motorlarının erişimini engelliyorsunuz."
+
+#: aioseop_class.php:3693
+msgid "You can %s click here%s to go to your reading settings and toggle your blog visibility."
+msgstr "Okuma ayarlarınıza gitmek için %s buraya tıklayabilirsiniz%s ve blogunuzun görünürlüğünü değiştirebilirsiniz."
+
+#: modules/aioseop_opengraph.php:85
+msgid "Enter your Facebook Admin ID here. Information about how to get your Facebook Admin ID can be found at https://developers.facebook.com/docs/platforminsights/domains"
+msgstr "Facebook yönetici ID'nizi buraya girin. Facebook yönetici ID'nizi nasıl alacağınız ile ilgili bilgi için https://developers.facebook.com/docs/platforminsights/domains adresinde bulunabilir."
+
+#: modules/aioseop_opengraph.php:86
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/platforminsights/domains"
+msgstr "Facebook uygulama ID'nizi buraya girin. Facebook uygulama ID'nizi nasıl alacağınız ile ilgili bilgi için https://developers.facebook.com/docs/platforminsights/domains adresinde bulunabilir."
+
+#: modules/aioseop_opengraph.php:169
+msgid "Facebook Admin ID"
+msgstr "Facebook Yönetici ID"
+
+#: modules/aioseop_opengraph.php:174
+msgid "Facebook App ID"
+msgstr "Facebook Uyg Kimliği"
+
+#: modules/aioseop_sitemap.php:55
+msgid "Use rewrites to generate your sitemap on the fly. NOTE: This is required for WordPress Multisite."
+msgstr "Site haritanızı anında oluşturmak için yeniden yazmayı kullanın. NOT: Bu, WordPress Multisite için gereklidir."
+
+#: modules/aioseop_sitemap.php:56
+msgid "URL to the page."
+msgstr "Sayfanın URL 'si."
+
+#: modules/aioseop_sitemap.php:57
+msgid "The priority of the page."
+msgstr "Sayfanın Önceliği"
+
+#: modules/aioseop_sitemap.php:58
+msgid "The frequency of the page."
+msgstr "Sayfanın sıklığı."
+
+#: modules/aioseop_sitemap.php:59
+msgid "Last modified date of the page."
+msgstr "Sayfanın son düzenleme tarihi."
+
+#: modules/aioseop_sitemap.php:60
+msgid "Entries from these categories will be excluded from the sitemap."
+msgstr "Bu kategorilerdeki yazılar site haritası dışında tutulacaktır."
+
+#: modules/aioseop_sitemap.php:61
+msgid "Use page slugs or page IDs, seperated by commas, to exclude pages from the sitemap."
+msgstr "Sayfaları site haritasından hariç tutmak için, virgül ile ayırarak, sayfa slugları veya sayfa ID'leri kullanın."
+
+#: modules/aioseop_sitemap.php:89
+msgid "Filename Prefix"
+msgstr "Dosya Adı Öneki"
+
+#: modules/aioseop_sitemap.php:94
+msgid "Notify Google"
+msgstr "Google 'ı Uyar"
+
+#: modules/aioseop_sitemap.php:95
+msgid "Notify Bing"
+msgstr "Bing 'i Uyar"
+
+#: modules/aioseop_sitemap.php:97
+msgid "Schedule Updates"
+msgstr "Program güncellemeleri"
+
+#: modules/aioseop_sitemap.php:100
+msgid "No Schedule"
+msgstr "Program yok"
+
+#: modules/aioseop_sitemap.php:101
+msgid "Daily"
+msgstr "Günlük"
+
+#: modules/aioseop_sitemap.php:102
+msgid "Weekly"
+msgstr "Haftalık"
+
+#: modules/aioseop_sitemap.php:103
+msgid "Monthly"
+msgstr "Aylık"
+
+#: modules/aioseop_sitemap.php:107
+msgid "Enable Sitemap Indexes"
+msgstr "Site Haritası İndeksleme Aktif"
+
+#: modules/aioseop_sitemap.php:109
+msgid "Paginate Sitemap Indexes"
+msgstr "Site Haritası İndekslerini Sayfalandır"
+
+#: modules/aioseop_sitemap.php:113
+msgid "Maximum Posts Per Sitemap"
+msgstr "Maksimum Günlük Site Haritası Gönderileri"
+
+#: modules/aioseop_sitemap.php:119
+msgid "Post Types"
+msgstr "Yazı Türleri"
+
+#: modules/aioseop_sitemap.php:124
+msgid "Taxonomies"
+msgstr "Sınıflandırmalar"
+
+#: modules/aioseop_sitemap.php:128
+msgid "Include Date Archive Pages"
+msgstr "Tarih Arşivi Sayfaları Dahil"
+
+#: modules/aioseop_sitemap.php:129
+msgid "Include Author Pages"
+msgstr "Yazar Sayfaları Dahil"
+
+#: modules/aioseop_sitemap.php:131
+msgid "Create Compressed Sitemap"
+msgstr "Sıkıştırılmış Site Haritası Oluştur"
+
+#: modules/aioseop_sitemap.php:135
+msgid "Link From Virtual Robots.txt"
+msgstr "Sanal Robots.txt 'den bağlantı"
+
+#: modules/aioseop_sitemap.php:139
+msgid "Dynamically Generate Sitemap"
+msgstr "Dinamik Site Haritası Oluştur"
+
+#: modules/aioseop_sitemap.php:147
+msgid "Debug Log"
+msgstr "Debug Kaydı"
+
+#: modules/aioseop_sitemap.php:161
+msgid "Sitemap Status"
+msgstr "Site Haritası Durumu"
+
+#: modules/aioseop_sitemap.php:177
+msgid "Do Not Override"
+msgstr "Geçersiz kılmayın"
+
+#: modules/aioseop_sitemap.php:178
+msgid "Select Individual"
+msgstr "Birey Seç"
+
+#: modules/aioseop_sitemap.php:191
+msgid "priority"
+msgstr "öncelik"
+
+#: modules/aioseop_sitemap.php:192
+msgid "frequency"
+msgstr "sıklık"
+
+#: modules/aioseop_sitemap.php:199
+msgid "homepage"
+msgstr "anasayfa"
+
+#: modules/aioseop_sitemap.php:200
+msgid "posts"
+msgstr "yazılar"
+
+#: modules/aioseop_sitemap.php:201
+msgid "taxonomies"
+msgstr "sınıflandırmalar"
+
+#: modules/aioseop_sitemap.php:202
+msgid "archive pages"
+msgstr "arşiv sayfaları"
+
+#: modules/aioseop_sitemap.php:203
+msgid "author pages"
+msgstr "yazar sayfaları"
+
+#: modules/aioseop_sitemap.php:215
+msgid "Manually set the %s of your %s."
+msgstr "Manuel olarak ayarla : %s - %s"
+
+#: modules/aioseop_sitemap.php:229
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "WordPress ile yönetilmeyen Site Haritanız için ek bağlantı bilgisini aşağıya girin."
+
+#: modules/aioseop_sitemap.php:235
+msgid "Page URL"
+msgstr "Sayfa URL 'si"
+
+#: modules/aioseop_sitemap.php:241
+msgid "Page Priority"
+msgstr "Sayfa Önceliği"
+
+#: modules/aioseop_sitemap.php:248
+msgid "Page Frequency"
+msgstr "Sayfa Sıklığı"
+
+#: modules/aioseop_sitemap.php:255
+msgid "Last Modified"
+msgstr "Son Düzenleme"
+
+#: modules/aioseop_sitemap.php:261 modules/aioseop_sitemap.php:286
+msgid "Additional Pages"
+msgstr "Ek Sayfalar"
+
+#: modules/aioseop_sitemap.php:268
+msgid "Add URL"
+msgstr "URL Ekle"
+
+#: modules/aioseop_sitemap.php:278
+msgid "Excluded Categories"
+msgstr "Harici Kategoriler"
+
+#: modules/aioseop_sitemap.php:282
+msgid "Excluded Pages"
+msgstr "Harici Sayfalar"
+
+#: modules/aioseop_sitemap.php:292
+msgid "Excluded Items"
+msgstr "Harici Öğeler"
+
+#: modules/aioseop_sitemap.php:298
+msgid "Priorities"
+msgstr "Öncelikler"
+
+#: modules/aioseop_sitemap.php:304
+msgid "Frequencies"
+msgstr "Sıklıklar"
+
+#: modules/aioseop_sitemap.php:373
+msgid "Once Weekly"
+msgstr "Haftada bir kez"
+
+#: modules/aioseop_sitemap.php:377
+msgid "Once Monthly"
+msgstr "Ayda bir kez"
+
+#: modules/aioseop_sitemap.php:400
+msgid "Daily scheduled sitemap check has finished."
+msgstr "Günlük planlanmış site haritası kontrolü tamamlandı."
+
+#: modules/aioseop_sitemap.php:486
+msgid "Media / Attachments"
+msgstr "Ortam / Ekler"
+
+#: modules/aioseop_sitemap.php:488
+msgid "All Post Types"
+msgstr "Tüm Yazı Türleri"
+
+#: modules/aioseop_sitemap.php:489
+msgid "All Taxonomies"
+msgstr "Tüm sınıflandırmalar"
+
+#: modules/aioseop_sitemap.php:493
+msgid "Manually set the priority for the "
+msgstr "El ile önceliğini ayarlayabilirsiniz"
+
+#: modules/aioseop_sitemap.php:494
+msgid "Manually set the frequency for the "
+msgstr "Frekansı el ile ayarlayabilirsiniz"
+
+#: modules/aioseop_sitemap.php:495
+msgid " Post Type"
+msgstr "Yazı Tipi"
+
+#: modules/aioseop_sitemap.php:496
+msgid " Taxonomy"
+msgstr "Sınıflandırma"
+
+#: modules/aioseop_sitemap.php:573 modules/aioseop_sitemap.php:635
+msgid "Update Sitemap"
+msgstr "Site Haritasını Güncelle"
+
+#: modules/aioseop_sitemap.php:633
+msgid "Please review your settings below and click %s to build your sitemap; then, %s."
+msgstr "Aşağıdaki ayarları gözden geçirin ve site haritanızı kurmak için %s 'e tıklayın; daha sonra %s."
+
+#: modules/aioseop_sitemap.php:636
+msgid "view your sitemap"
+msgstr "site haritanızı görün"
+
+#: modules/aioseop_sitemap.php:639
+msgid "Note: you are using dynamic sitemap generation to keep your sitemap current; this will not generate a static sitemap file."
+msgstr "Not: Eğer mevcut site haritanızı korumak için dinamik site haritası oluşturmayı kullanıyorsanız, bu bir sitatik site haritası dosyası oluşturmak değildir."
+
+#: modules/aioseop_sitemap.php:643
+msgid "Dynamic sitemap generation appears to be using the correct rewrite rules."
+msgstr "Dinamik site haritası oluşturma doğru yazım kurallarını kullanıyor gibi görünüyor."
+
+#: modules/aioseop_sitemap.php:645
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "Dinamik site haritası oluşturma doğru yazım kurallarını kullanmıyor gibi görünüyor; lütfen sitenizdeki diğer site haritası eklentilerini devre dışı bırakın veya kalıcı bağlantıları sıfırlayın."
+
+#: modules/aioseop_sitemap.php:651
+msgid "Reading Settings"
+msgstr "Okuma Ayarları"
+
+#: modules/aioseop_sitemap.php:653
+msgid "Privacy Settings"
+msgstr "Gizlilik Ayarları"
+
+#: modules/aioseop_sitemap.php:655
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your blog."
+msgstr "Dikkat: gizlilik ayarlarınız arama motorlarını engellemektedir; %s altından bunu değiştirebilirsiniz."
+
+#: modules/aioseop_sitemap.php:859
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "Dikkat: Dinamik site haritası oluşturma kalıcı bağlantıları etkinleştirmek zorunda."
+
+#: modules/aioseop_sitemap.php:876
+msgid "Deleted %s."
+msgstr "Silindi %s."
+
+#: modules/aioseop_sitemap.php:886
+msgid "Couldn't rename file %s!"
+msgstr "%s dosyası yeniden adlandırılamıyor!"
+
+#: modules/aioseop_sitemap.php:890
+msgid "Renamed %s to %s."
+msgstr "Yeniden adlandırıldı %s - %s."
+
+#: modules/aioseop_sitemap.php:894
+msgid "Couldn't find file %s!"
+msgstr "%s dosyası bulunamıyor!"
+
+#: modules/aioseop_sitemap.php:971
+msgid "Warning: a static sitemap '%s' generated by All in One SEO Pack %s on %s already exists that may conflict with dynamic sitemap generation."
+msgstr "Dikkat: All in One SEO Pack tarafından oluşturulan statik site haritası '%s', zaten varolan dinamik site haritası oluşturma ile çakışabilir: %s - %s "
+
+#: modules/aioseop_sitemap.php:976
+msgid "Potential conflict with unknown file %s."
+msgstr "Bilinmeyen dosya %s ile potansiyel çatışma."
+
+#: modules/aioseop_sitemap.php:1007
+msgid "Rename Conflicting Files"
+msgstr "Çakışan Dosyaları Yeniden Adlandır"
+
+#: modules/aioseop_sitemap.php:1008
+msgid "Delete Conflicting Files"
+msgstr "Çakışan Dosyaları Sil"
+
+#: modules/aioseop_sitemap.php:1143
+msgid "compressed"
+msgstr "sıkıştırılmış"
+
+#: modules/aioseop_sitemap.php:1146
+msgid "dynamic"
+msgstr "dinamik"
+
+#: modules/aioseop_sitemap.php:1141
+msgid "static"
+msgstr "statik"
+
+#: modules/aioseop_sitemap.php:1297
+msgid "Successfully notified %s about changes to your sitemap at %s."
+msgstr "%s başarıyla uyarıldı. %s değişiklikleri bildirildi. "
+
+#: modules/aioseop_sitemap.php:1299
+msgid "Failed to notify %s about changes to your sitemap at %s, error code %s."
+msgstr "%s uyarılması başarısız oldu. %s değişiklikleri bildirilemedi. Hata kodu: %s."
+
+#: modules/aioseop_sitemap.php:1302
+msgid "Failed to notify %s about changes to your sitemap at %s, unable to access via wp_remote_get()."
+msgstr "%s uyarılması başarısız oldu. %s değişiklikleri bildirilemedi.  wp_remote_get() tarafından geçersiz erişim."
+
+#: modules/aioseop_sitemap.php:1305
+msgid "Did not notify %s about changes to your sitemap."
+msgstr "Site haritanızdaki değişikler için %s  uyarılmadı."
+
+#: modules/aioseop_sitemap.php:1355
+msgid "Updated sitemap settings."
+msgstr "Site haritası ayarları güncellendi."
+
+#. Plugin Name of the plugin/theme
+msgid "All In One SEO Pack"
+msgstr "All In One SEO Pack"
+
+#. Plugin URI of the plugin/theme
+msgid "http://semperfiwebdesign.com"
+msgstr "http://semperfiwebdesign.com"
+
+#. Author of the plugin/theme
+msgid "Michael Torbert"
+msgstr "Michael Torbert"
+
+#. Author URI of the plugin/theme
+msgid "http://michaeltorbert.com"
+msgstr "http://michaeltorbert.com"
+
+#: aioseop_class.php:1155
+msgid "Noindex Settings"
+msgstr "Noindex Ayarları"
+
+#: aioseop_class.php:1176
+msgid "Advanced Settings"
+msgstr "Gelişmiş Ayarlar"
+
+#: aioseop_class.php:3175
+msgid "Front Page"
+msgstr "Ön sayfa"
+
+#: aioseop_class.php:3175
+msgid "Everywhere Else"
+msgstr "Diğer her yerde"
+
+#: aioseop_class.php:3183
+msgid "Title Format:"
+msgstr "Başlık Biçimi:"
+
+#: aioseop_class.php:3197
+msgid "%post_title% - The original title of the post."
+msgstr "%post_title% - Yazının orijinal başlığı."
+
+#: aioseop_class.php:3201
+msgid "%%tax_%s%% - This post's associated %s taxonomy title"
+msgstr "%%tax_%s%% - Bu yazının ilgili %s sınıflandırma başlığı"
+
+#: aioseop_class.php:3084 aioseop_class.php:3102
+msgid "Welcome to Version %s!"
+msgstr "%s Sürümüne Hoşgeldin!"
+
+#: aioseop_class.php:3103
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Harika ve en son All in One SEO Paketini çalıştırdığınız için teşekkür ederiz! Her zaman sizin için yeni özellikler ekliyoruz, ayarları gözden geçirin!"
+
+#: aioseop_class.php:3092 aioseop_class.php:3110
+msgid "Review Your Settings"
+msgstr "Ayarlarınızı Gözden Geçirin"
+
+#: aioseop_class.php:3111
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! New since 2.2: Control who accesses your site with the new Robots.txt Editor and File Editor modules!  Enable them from the Feature Manager.  Remember to review your settings, we have added some new ones!"
+msgstr "En son ve en iyi All in One SEO Pack'ı kullandığınız için teşekkür ederiz! 2.2'den beri yenilikler: Yeni robots.txt düzenleyici ve dosya düzenleyici modülleriyle sitenize kimlerin eriştiğini kontrol edin! Özellik yöneticisinden etkinleştirin. Bazı yeni ayarlar eklediğimizde ayarlarınızı gözden geçirmeyi unutmayın!"
+
+#: aioseop_class.php:3288
+msgid "Reset General Settings to Defaults"
+msgstr "Genel Ayarları Varsayılan olarak Sıfırla"
+
+#: aioseop_class.php:3292
+msgid "Reset ALL Settings to Defaults"
+msgstr "TÜM Ayarları Varsayılan olarak Sıfırla"
+
+#: aioseop_class.php:3374
+msgid "Default - noindex"
+msgstr "Varsayılan - noindex"
+
+#: aioseop_class.php:3375
+msgid "index"
+msgstr "index"
+
+#: aioseop_class.php:3376
+msgid "noindex"
+msgstr "noindex"
+
+#: aioseop_class.php:3382
+msgid "Default - nofollow"
+msgstr "Varsayılan - nofollow"
+
+#: aioseop_class.php:3383
+msgid "follow"
+msgstr "follow"
+
+#: aioseop_class.php:3384
+msgid "nofollow"
+msgstr "nofollow"
+
+#: aioseop_class.php:3390
+msgid "Default - noodp"
+msgstr "Varsayılan - noodp"
+
+#: aioseop_class.php:3391
+msgid "odp"
+msgstr "odp"
+
+#: aioseop_class.php:3392
+msgid "noodp"
+msgstr "noodp"
+
+#: aioseop_class.php:3398
+msgid "Default - noydir"
+msgstr "Varsayılan - noydir"
+
+#: aioseop_class.php:3399
+msgid "ydir"
+msgstr "ydir"
+
+#: aioseop_class.php:3400
+msgid "noydir"
+msgstr "noydir"
+
+#: admin/display/general-metaboxes.php:28
+msgid "by %s of %s."
+msgstr "%s tarafından %s aracılığı ile."
+
+#: admin/display/general-metaboxes.php:39
+msgid "Reset Dismissed Notices"
+msgstr "Bildirimleri sıfırla"
+
+#: admin/display/general-metaboxes.php:44
+msgid "Pro Version"
+msgstr "Pro sürümü"
+
+#: admin/display/general-metaboxes.php:44 aioseop_class.php:993
+msgid "UPGRADE TO PRO VERSION"
+msgstr "PRO SÜRÜME YÜKSELT"
+
+#: admin/display/general-metaboxes.php:70 all_in_one_seo_pack.php:277
+msgid "Donate"
+msgstr "Bağış"
+
+#: admin/display/general-metaboxes.php:73
+msgid "Donate with Paypal"
+msgstr "Paypal ile Bağış"
+
+#: admin/display/general-metaboxes.php:77
+msgid "My Amazon Wish List"
+msgstr "My Amazon Wish List"
+
+#: admin/display/general-metaboxes.php:80
+msgid "Follow us on Facebook"
+msgstr "Facebooktan Takip Edin"
+
+#: admin/display/general-metaboxes.php:83
+msgid "Follow us on Twitter"
+msgstr "Twitterdan Takip Edin"
+
+#: admin/display/general-metaboxes.php:120
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "İpuçları ve WordPress sırları için e-posta listemize katılın."
+
+#: admin/display/general-metaboxes.php:122
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "Bugün kaydolun ve WordPress için 5 SEO İpucu e-kitabının ücretsiz bir kopyasına sahip olun (39$ değerinde)."
+
+#: admin/display/general-metaboxes.php:138
+msgid "Read the All in One SEO Pack user guide"
+msgstr "All in One SEO Pack kullanım kılavuzunu okuyun"
+
+#: admin/display/general-metaboxes.php:142
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "All in One SEO Pro eklenti destek forumu"
+
+#: admin/display/general-metaboxes.php:143
+msgid "Access our Premium Support Forums"
+msgstr "Premium destek forumlarımıza erişin"
+
+#: admin/display/general-metaboxes.php:146
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "All in One SEO Pro eklenti değişim notları"
+
+#: admin/display/general-metaboxes.php:151
+msgid "View the Changelog"
+msgstr "Değişim günlüğünü görüntüle"
+
+#: admin/display/general-metaboxes.php:155
+msgid "Watch video tutorials"
+msgstr "Öğretici video izle"
+
+#: admin/display/general-metaboxes.php:159
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Yeni mi başladınız? Acemi kılavuzunu okuyun."
+
+#: aioseop_class.php:3754
+msgid "Debug Warning: All in One SEO Pack meta data was included again from %s filter. Called %s times!"
+msgstr "Hata ayıklama uyarısı: All in One SEO Pack meta veri tekrar %s filtresinden eklendi. %s kez çağrıldı!"
+
+#: inc/deprecated.php:137
+msgid "Disconnect From Google Analytics"
+msgstr "Google Analytics 'i iptal et "
+
+#: inc/deprecated.php:138
+msgid "Remove Stored Credentials"
+msgstr "Depolanan Kimlikleri Kaldır"
+
+#: inc/deprecated.php:145
+msgid "Connect With Google Analytics"
+msgstr "Google Analytics 'e Bağlan"
+
+#: inc/deprecated.php:173 inc/deprecated.php:220 inc/deprecated.php:261
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: aioseop_class.php:4740
+msgid "SEO"
+msgstr "SEO"
+
+#: aioseop_class.php:4764
+msgid "Edit SEO"
+msgstr "SEO Düzenle"
+
+#: aioseop_class.php:4747
+msgid "Upgrade To Pro"
+msgstr "Yükselt: PRO"
+
+#: aioseop_class.php:4871
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: aioseop_class.php:4924
+msgid "Thank you!"
+msgstr "Teşekkürler"
+
+#: aioseop_class.php:4925
+msgid "Thank you for your donation, it helps keep this plugin free and actively developed!"
+msgstr "Bağış için teşekkür ederiz, bu eklentiyi ücretsiz ve aktif geliştirmeye devam etmek için yardımcı oluyor!"
+
+#: aioseop_class.php:4968
+msgid "Join Our Mailing List"
+msgstr "Posta Listemize Katılın"
+
+#: aioseop_class.php:4983
+msgid "Support"
+msgstr "Destek"
+
+#: aioseop_class.php:4983
+msgid "Version"
+msgstr "Sürüm"
+
+#: admin/aioseop_module_class.php:1726 admin/aioseop_module_class.php:1980
+#: admin/aioseop_module_class.php:2257 aioseop_class.php:5013
+#: aioseop_class.php:5031
+msgid "Help"
+msgstr "Yardım"
+
+#: aioseop_class.php:4704
+msgid "Main Settings"
+msgstr "Ana Ayarlar"
+
+#: modules/aioseop_feature_manager.php:23
+msgid "Feature Manager"
+msgstr "Özellik Yöneticisi"
+
+#: modules/aioseop_feature_manager.php:29
+msgid "XML Sitemaps"
+msgstr "XML Site Haritası"
+
+#: modules/aioseop_feature_manager.php:30
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Bu özelliği kullanarak XML Site haritanızı oluşturun ve yönetin. XML haritanızı Google, Bing/Yahoo ve Ask.com için gönderin."
+
+#: modules/aioseop_feature_manager.php:33 modules/aioseop_opengraph.php:14
+msgid "Social Meta"
+msgstr "Sosyal Meta"
+
+#: modules/aioseop_feature_manager.php:34
+msgid "Activate this feature to add Social Meta data to your site to deliver closer integration between your website/blog and Facebook, Twitter, and Google+."
+msgstr "Blogunuz/Web Sayfanız ve Facebook, Google+, Twitter arasında daha yakın entegrasyon sağlaması için Sosyal Meta verisini aktif hale getirin."
+
+#: modules/aioseop_feature_manager.php:37 modules/aioseop_robots.php:12
+#: modules/aioseop_robots.php:175
+msgid "Robots.txt"
+msgstr "robots.txt"
+
+#: modules/aioseop_feature_manager.php:38
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "Robots.txt dosyasını oluşturup doğrulayarak arama motorlarınızı sitenize yönlendirin."
+
+#: modules/aioseop_feature_manager.php:41 modules/aioseop_file_editor.php:19
+msgid "File Editor"
+msgstr "Dosya Düzenleyici"
+
+#: modules/aioseop_feature_manager.php:42
+msgid "Edit your robots.txt file and your .htaccess file to fine-tune your site."
+msgstr "Robots.txt dosyanızı ve .htaccess dosyanızı sitenize ince ayar yapmak için düzenleyin."
+
+#: modules/aioseop_feature_manager.php:50
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "Kötü davranan botların sitenizi yavaşlatmasını durdurun."
+
+#: modules/aioseop_feature_manager.php:53 modules/aioseop_performance.php:15
+msgid "Performance"
+msgstr "Performans"
+
+#: modules/aioseop_feature_manager.php:54
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "SEO ile ilgili performansı optimize edin ve sistem durumunu kontrol edin."
+
+#: modules/aioseop_feature_manager.php:45
+#: modules/aioseop_importer_exporter.php:16
+msgid "Importer & Exporter"
+msgstr "İçe aktarma & Dışa aktarma"
+
+#: modules/aioseop_feature_manager.php:46
+msgid "Exports and imports your All in One SEO Pack plugin settings."
+msgstr "All in One SEO Pack eklenti ayarlarınızı içe ve dışa aktarır."
+
+#: modules/aioseop_feature_manager.php:62
+msgid "Coming Soon..."
+msgstr "Çok Yakında..."
+
+#: inc/commonstrings.php:21 modules/aioseop_feature_manager.php:67
+#: modules/aioseop_feature_manager.php:74
+msgid "Video Sitemap"
+msgstr "Video site haritası"
+
+#: modules/aioseop_feature_manager.php:147
+msgid "Update Features"
+msgstr "Güncelleme Özellikleri"
+
+#: modules/aioseop_feature_manager.php:149
+msgid "Reset Features"
+msgstr "Özellikleri Sıfırla"
+
+#: modules/aioseop_file_editor.php:29 modules/aioseop_robots.php:21
+msgid "Robots.txt editor"
+msgstr "Robots.txt düzenleyici"
+
+#: modules/aioseop_file_editor.php:30
+msgid ".htaccess editor"
+msgstr ".htaccess düzenleyici"
+
+#: modules/aioseop_file_editor.php:34
+msgid "Edit Robots.txt"
+msgstr "Robots.txt düzenle"
+
+#: modules/aioseop_file_editor.php:43 modules/aioseop_file_editor.php:70
+msgid "Edit .htaccess"
+msgstr ".htaccess düzenle"
+
+#: modules/aioseop_file_editor.php:59
+msgid "robots.txt"
+msgstr "Robots.txt"
+
+#: modules/aioseop_file_editor.php:60
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: modules/aioseop_file_editor.php:65
+msgid "Edit robots.txt"
+msgstr "Robots.txt düzenle"
+
+#: modules/aioseop_file_editor.php:102
+msgid "Update robots.txt"
+msgstr "Robots.txt güncelle"
+
+#: modules/aioseop_file_editor.php:108
+msgid "Update .htaccess"
+msgstr ".htaccess güncelle"
+
+#: inc/aioseop_functions.php:192
+msgid "SEO Title"
+msgstr "SEO Başlığı"
+
+#: inc/aioseop_functions.php:193
+msgid "SEO Description"
+msgstr "SEO Açıklaması"
+
+#: inc/aioseop_functions.php:195
+msgid "SEO Keywords"
+msgstr "SEO Anahtar Kelimeleri"
+
+#: inc/aioseop_functions.php:265 inc/aioseop_functions.php:382
+#: inc/aioseop_functions.php:734
+msgid "Edit"
+msgstr "Düzenle"
+
+#: inc/aioseop_functions.php:266
+msgid "Post"
+msgstr "Yazı"
+
+#: inc/aioseop_functions.php:267
+msgid "Save"
+msgstr "Kaydet"
+
+#: inc/aioseop_functions.php:268
+msgid "Cancel"
+msgstr "İptal"
+
+#: inc/aioseop_functions.php:270
+msgid "Please wait..."
+msgstr "Lütfe bekleyin..."
+
+#: inc/aioseop_functions.php:271
+msgid "Slug may not be empty!"
+msgstr "Kısa isim boş olmayabilir!"
+
+#: inc/aioseop_functions.php:272
+msgid "Revisions"
+msgstr "Düzenlemeler"
+
+#: inc/aioseop_functions.php:273
+msgid "Insert time"
+msgstr "Zaman ekle"
+
+#: inc/aioseop_functions.php:378 inc/aioseop_functions.php:730
+#: modules/aioseop_performance.php:210 modules/aioseop_performance.php:215
+#: modules/aioseop_performance.php:220 modules/aioseop_performance.php:229
+msgid "No"
+msgstr "No"
+
+#: inc/aioseop_functions.php:401
+msgid "Unauthorized access; try reloading the page."
+msgstr "Yetkisiz erişim, sayfayı yenileyin."
+
+#: inc/aioseop_functions.php:501
+msgid "Row %s not found; no rows were deleted."
+msgstr "%s satırı bulunamadı; hiç bir satır silinmedi."
+
+#: inc/aioseop_functions.php:565
+msgid "Duplicate %s Meta"
+msgstr "%s Meta Kopya"
+
+#: inc/aioseop_functions.php:574
+msgid "No duplicate meta tags found."
+msgstr "Kopya meta etiketi bulunamadı."
+
+#: inc/aioseop_functions.php:577
+msgid "What Does This Mean?"
+msgstr "Bunun Anlamı Nedir?"
+
+#: inc/aioseop_functions.php:591
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "Sosyal meta hata ayıklamak da her bir araç için belgeyi kontrol edin."
+
+#: inc/aioseop_functions.php:922
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/aioseop_functions.php:928
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/aioseop_functions.php:931
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/aioseop_importer_exporter.php:21
+msgid "Select a valid All in One SEO Pack ini file and click 'Import' to import options from a previous state or install of All in One SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Geçerli bir All in One SEO Pack ini dosyası seçin ve bir önceki durumdan veya All in One SEO Pack yüklemesinden seçenekleri içe aktarmak için 'İçe Aktar'a tıklayın.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Ayarlar hakkında dokümantasyon için buraya tıklayın</a>"
+
+#: modules/aioseop_importer_exporter.php:25
+msgid "You may choose to export settings from active modules, and content from post data.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Aktif modüllerden ayarları ve yazı verilerinden içeriği dışa aktarmayı seçebilirsiniz.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Bu ayarlar hakkında dokümantasyon için buraya tıklayın</a>"
+
+#: modules/aioseop_importer_exporter.php:29
+msgid "Select which Post Types you want to export your All in One SEO Pack meta data for.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "All in One SEO Pack meta datanız için hangi yazı tipini dışa aktarmak istediğinizi seçin.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Bu ayar hakkında dokümantasyon için buraya tıklayın</a>"
+
+#: modules/aioseop_importer_exporter.php:37
+#: modules/aioseop_importer_exporter.php:105
+msgid "Import"
+msgstr "İçe aktar"
+
+#: modules/aioseop_importer_exporter.php:43
+msgid "Export Settings"
+msgstr "Dışa aktarma ayarları"
+
+#: modules/aioseop_importer_exporter.php:51
+msgid "Export Post Types:"
+msgstr "Dışa aktarılacak yazı tipleri:"
+
+#: modules/aioseop_importer_exporter.php:115
+msgid "Export"
+msgstr "Dışa aktar"
+
+#: modules/aioseop_importer_exporter.php:148
+msgid "There are no other modules currently loaded!"
+msgstr "Şu anda yüklü başka modül mevcut değil!"
+
+#: modules/aioseop_importer_exporter.php:416
+msgid "<b>Warning:</b> Line not matched: <b>\"%s\"</b>, On Line: <b>%s</b>"
+msgstr "<b>Uyarı:</b> satır eşleşmedi: <b>\"%s\"</b>, Satır: <b>%s</b>"
+
+#: modules/aioseop_importer_exporter.php:465
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>Uyarı:</b> Bu yazı bulunamadı: <b>\"%s\"</b>"
+
+#: modules/aioseop_importer_exporter.php:513
+msgid "Settings export file for All in One SEO Pack"
+msgstr "All in One SEO Pack için dışa aktarılmış dosya ayarları"
+
+#: admin/aioseop_module_class.php:1409
+msgid "Click here for documentation on this setting"
+msgstr "Bu ayar hakkında dokümantasyon için buraya tıklayın"
+
+#: admin/aioseop_module_class.php:1915
+msgid " characters. Most search engines use a maximum of %s chars for the %s."
+msgstr " karakter. Bir çok arama maksimum %s karakter kullanır: %s"
+
+#: admin/aioseop_module_class.php:1948
+msgid "Click for Help!"
+msgstr "Yardım için Tıklayın!"
+
+#: admin/aioseop_module_class.php:2144 modules/aioseop_sitemap.php:864
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "Güvenlik Kontrolü - Eğer hata alıyorsanız, WordPress den çıkış yapın ve tekrar girin."
+
+#: admin/aioseop_module_class.php:2147
+msgid "Options Reset."
+msgstr "Ayarları Sıfırla."
+
+#: admin/aioseop_module_class.php:2156
+msgid "All in One SEO Options Updated."
+msgstr "All in One SEO Ayarları Güncellendi."
+
+#: admin/aioseop_module_class.php:2221
+msgid "Update Options"
+msgstr "Ayarları Güncelle"
+
+#: modules/aioseop_opengraph.php:19
+msgid "Activity"
+msgstr "Aktivite"
+
+#: modules/aioseop_opengraph.php:20
+msgid "Sport"
+msgstr "Spor"
+
+#: modules/aioseop_opengraph.php:23
+msgid "Bar"
+msgstr "Bar"
+
+#: modules/aioseop_opengraph.php:24
+msgid "Company"
+msgstr "Şirket"
+
+#: modules/aioseop_opengraph.php:25
+msgid "Cafe"
+msgstr "Kafe"
+
+#: modules/aioseop_opengraph.php:26
+msgid "Hotel"
+msgstr "Otel"
+
+#: modules/aioseop_opengraph.php:27
+msgid "Restaurant"
+msgstr "Restoran"
+
+#: modules/aioseop_opengraph.php:30
+msgid "Cause"
+msgstr "Dava"
+
+#: modules/aioseop_opengraph.php:31
+msgid "Sports League"
+msgstr "Spor Ligi"
+
+#: modules/aioseop_opengraph.php:32
+msgid "Sports Team"
+msgstr "Spor Takımı"
+
+#: modules/aioseop_opengraph.php:35
+msgid "Band"
+msgstr "Grup"
+
+#: modules/aioseop_opengraph.php:36
+msgid "Government"
+msgstr "Hükümet"
+
+#: modules/aioseop_opengraph.php:37
+msgid "Non Profit"
+msgstr "Kar amacı gütmeyen"
+
+#: modules/aioseop_opengraph.php:38
+msgid "School"
+msgstr "Okul"
+
+#: modules/aioseop_opengraph.php:39
+msgid "University"
+msgstr "Üniversite"
+
+#: modules/aioseop_opengraph.php:42
+msgid "Actor"
+msgstr "Aktör"
+
+#: modules/aioseop_opengraph.php:43
+msgid "Athlete"
+msgstr "Atlet"
+
+#: modules/aioseop_opengraph.php:44
+msgid "Author"
+msgstr "Yazar"
+
+#: modules/aioseop_opengraph.php:45
+msgid "Director"
+msgstr "Yönetmen"
+
+#: modules/aioseop_opengraph.php:46
+msgid "Musician"
+msgstr "Müzisyen"
+
+#: modules/aioseop_opengraph.php:47
+msgid "Politician"
+msgstr "Politikacı"
+
+#: modules/aioseop_opengraph.php:48
+msgid "Profile"
+msgstr "Biyografi"
+
+#: modules/aioseop_opengraph.php:49
+msgid "Public Figure"
+msgstr "Tanınmış Kişi"
+
+#: modules/aioseop_opengraph.php:52
+msgid "City"
+msgstr "Şehir"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Country"
+msgstr "Ülke"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Landmark"
+msgstr "Bölge"
+
+#: modules/aioseop_opengraph.php:55
+msgid "State Province"
+msgstr "SEmt"
+
+#: modules/aioseop_opengraph.php:58
+msgid "Album"
+msgstr "Albüm"
+
+#: modules/aioseop_opengraph.php:59
+msgid "Book"
+msgstr "Kitap"
+
+#: modules/aioseop_opengraph.php:60
+msgid "Drink"
+msgstr "İçecek"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Food"
+msgstr "Yiyecek"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Game"
+msgstr "Oyun"
+
+#: modules/aioseop_opengraph.php:63
+msgid "Movie"
+msgstr "Film"
+
+#: modules/aioseop_opengraph.php:64
+msgid "Product"
+msgstr "Ürün"
+
+#: modules/aioseop_opengraph.php:65
+msgid "Song"
+msgstr "Şarkı"
+
+#: modules/aioseop_opengraph.php:66
+msgid "TV Show"
+msgstr "TV Show"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Episode"
+msgstr "Bölüm"
+
+#: modules/aioseop_opengraph.php:70 modules/aioseop_opengraph.php:80
+msgid "Article"
+msgstr "Makale"
+
+#: modules/aioseop_opengraph.php:71 modules/aioseop_opengraph.php:78
+msgid "Blog"
+msgstr "Blog"
+
+#: modules/aioseop_opengraph.php:72 modules/aioseop_opengraph.php:79
+msgid "Website"
+msgstr "Web Sayfası"
+
+#: modules/aioseop_opengraph.php:84
+msgid "Checking this box will use the Home Title and Home Description set in All in One SEO Pack, General Settings as the Open Graph title and description for your home page."
+msgstr "Bu kutu işaretlenirse, Open Graph anasayfa başlık ve açıklamanız gibi genel ayarlar, All in One SEO Pack'te oluşturulmuş anasayfa başlığı ve anasayfa açıklaması olarak kullanılacak."
+
+#: modules/aioseop_opengraph.php:87
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "Sosyal başlık meta tagları olarak gözüken kısa kodları çalıştır."
+
+#: modules/aioseop_opengraph.php:88
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "Sosyal açıklama meta tagları olarak gözüken kısa kodları çalıştır."
+
+#: modules/aioseop_opengraph.php:89
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "Site Adı, internet sitenizi tanımlamak için kullanılan addır."
+
+#: modules/aioseop_opengraph.php:90
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "Ana sayfa başlığı, ana sayfanız için Open Graph başlığıdır."
+
+#: modules/aioseop_opengraph.php:91
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "Ana sayfa açıklaması, ana sayfanız için Open Graph açıklamasıdır."
+
+#: modules/aioseop_opengraph.php:92
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "Ana sayfa görseli, ana sayfanız için Open Graph görselidir."
+
+#: modules/aioseop_opengraph.php:93
+msgid "The Home Tag allows you to add a list of keywords that best describe your home page content."
+msgstr "Ana sayfa etiketi, size ana sayfa içeriğinizi en iyi şekilde tanımlayan bir dizi anahtar kelime ekleme imkanı sağlar."
+
+#: modules/aioseop_opengraph.php:94
+msgid "Check this and your Open Graph descriptions will be auto-generated from your content."
+msgstr "Bunu işaretlerseniz, Open Graph açıklamanız sayfanızın içeriğine göre otomatik olarak oluşturulur."
+
+#: modules/aioseop_opengraph.php:95
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "Bu seçenek, Open Graph görseli olarak hangi görselin önceden tanımlanmış olarak gösterileceğini seçmenize olanak tanır. İstediğiniz yazılarda bunu geçersiz kılabilirsiniz. "
+
+#: modules/aioseop_opengraph.php:96
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "Bu seçenek, yukarıda hiçbir görselin bulunamaması durumunda varsayılan görsele dönmenizi sağlar."
+
+#: modules/aioseop_opengraph.php:97
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "Bu seçenek, Open Graph görseli olarak kullanılabilecek varsayılan bir görsel belirlemenize imkan verir. Bir görsel yüklenebilir, Ortam Kütüphanesinden bir görsel seçebilir veya görselin bağlantısını buraya yapıştırabilirsiniz."
+
+#: modules/aioseop_opengraph.php:98
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "Bu seçenek, görselleriniz için genişlik belirtilmeyen durumlar için, varsayılan bir genişlik belirlemenize imkan verir."
+
+#: modules/aioseop_opengraph.php:99
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "Bu seçenek, görselleriniz için yükseklik belirtilmeyen durumlar için, varsayılan bir yükseklik belirlemenize imkan verir."
+
+#: modules/aioseop_opengraph.php:100
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "Özelleştirilmiş bir alan adı girin (veya virgül ile ayrılmış olarak çok sayıda alan adı) ve bu adı Sayfalardaki veya Yazılardaki Open Graph görselini belirtmek için kullanın."
+
+#: modules/aioseop_opengraph.php:101
+msgid "Set the Open Graph type for your website as either a blog or a website."
+msgstr "Open Graph tipini internet sitenizi ister bir blog ister bir internet sitesi şeklinde tanımlayın."
+
+#: modules/aioseop_opengraph.php:102
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "Bu seçenek, bu Sayfa veya Yazı için kullanılacak Open Graph görselini, varsayılan ayarları geçersiz kılarak, seçmenize imkan verir."
+
+#: modules/aioseop_opengraph.php:103
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "Bu seçenek, bir görsel upload ederek, bu Sayfa veya Yazı için Open Graph görseli olarak kullanmanıza imkan verir."
+
+#: modules/aioseop_opengraph.php:104
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "Open Graph görseliniz için genişliği piksel olarak girin (ör. 600)."
+
+#: modules/aioseop_opengraph.php:105
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "Open Graph görseliniz için yüksekliği piksel olarak girin (ör. 600)."
+
+#: modules/aioseop_opengraph.php:106
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "Bu seçenek, bu Sayfa veya Yazıda kullanılan Open Graph video için bir bağlantı belirlemenize imkan verir."
+
+#: modules/aioseop_opengraph.php:107
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "Open Graph videonuz için genişliği piksel olarak girin (ör. 600)."
+
+#: modules/aioseop_opengraph.php:108
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "Open Graph videonuz için yüksekliği piksel olarak girin (ör. 600)."
+
+#: modules/aioseop_opengraph.php:109 modules/aioseop_opengraph.php:110
+msgid "Select the default type of Twitter card to display."
+msgstr "Gösterilecek varsayılan Twitter kart tipini seçin."
+
+#: modules/aioseop_opengraph.php:111
+msgid "Enter the Twitter username associated with your website here."
+msgstr "İnternet sayfanız ile bağlantılı Twitter kullanıcı adını girin."
+
+#: modules/aioseop_opengraph.php:112
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "Yazarlarınızın Yazıları için Twitter kartları üzerinde içerik yaratıcıları olarak Twitter kullanıcı adlarıyla tanımlanmalarını sağlar."
+
+#: modules/aioseop_opengraph.php:113
+msgid "Enter the name of your website here."
+msgstr "İnternet sitenizin adını buraya girin."
+
+#: modules/aioseop_opengraph.php:114
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "Bulunmadığı durumlarda Facebook türü makaleler için otomatik olarak makale etiketi oluşturun"
+
+#: modules/aioseop_opengraph.php:115
+msgid "Use keywords in generated article tags."
+msgstr "Oluşturulan makale etiketlerinde anahtar kelimeler kullanın."
+
+#: modules/aioseop_opengraph.php:116
+msgid "Use catergories in generated article tags."
+msgstr "Oluşturulan makale etiketlerinde kategorileri kullanın"
+
+#: modules/aioseop_opengraph.php:117
+msgid "Use post tags in generated article tags."
+msgstr "Oluşturulan makale etiketlerinde yazı etiketleri kullanın."
+
+#: modules/aioseop_opengraph.php:118
+msgid "Select which Post Types you want to use All in One SEO Pack to set Open Graph meta values for."
+msgstr "All in One SEO Pack'de hangi yazı Türlerini kullanarak Open Graph meta değerlerini belirleyeceğinizi seçin."
+
+#: modules/aioseop_opengraph.php:119
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "Bu, şu anki sayfa ya da Yazı için Open Graph başlığıdır."
+
+#: modules/aioseop_opengraph.php:120
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "Bu, şu anki sayfa veya yazının Open Graph açıklamasıdır."
+
+#: modules/aioseop_opengraph.php:121
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "Bu sayfayı veya yazıyı en iyi açıklayan Open Graph türünü seçin."
+
+#: modules/aioseop_opengraph.php:122
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "Sayfayı yeniden Facebook'a  getirmek ve hata ayıklamaları için tıklayın "
+
+#: modules/aioseop_opengraph.php:123
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "Bu Open Graph meta, içeriği en iyi açıklayan bir genel sekme adı eklemenizi sağlar."
+
+#: modules/aioseop_opengraph.php:124
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "Bu Open Graph meta, içeriği en iyi şekilde açıklayan bir anahtar sözcük listesi eklemenizi sağlar."
+
+#: modules/aioseop_opengraph.php:125
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "Web sayfanızla ilişkili olan Facebook sayfanıza makaleler ekleyin."
+
+#: modules/aioseop_opengraph.php:126
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "Yazarlarınızın Yazıları için Opengraph meta üzerinde içerik yaratıcıları olarak Facebook sayfalarıyla tanımlanmalarını sağlar."
+
+#: modules/aioseop_opengraph.php:127
+msgid "Are the social profile links for your website for a person or an organization?"
+msgstr "İnternet sayfanızın sosyal medya bağlantıları bir kişi veya bir organizasyon için mi?"
+
+#: modules/aioseop_opengraph.php:128
+msgid "Add URLs for your website's social profiles here (Facebook, Twitter, Google+, Instagram, LinkedIn), one per line."
+msgstr "İnternet sitenizin sosyal profil (Facebook, Twitter, Google+, Instagram, LinkedIn) URL'lerini buraya ekleyin, her satıra bir tane."
+
+#: modules/aioseop_opengraph.php:129
+msgid "Add the name of the person or organization who owns these profiles."
+msgstr "Bu profillerin sahibi kişinin veya organizasyonun adını ekleyin"
+
+#: modules/aioseop_opengraph.php:157
+msgid " characters. Open Graph allows up to a maximum of %s chars for the %s."
+msgstr " karakter. Open Graph maksimum %s karaktere izin verir: %s"
+
+#: modules/aioseop_opengraph.php:160
+msgid "Scan Header"
+msgstr "Başlığı Tarafa"
+
+#: modules/aioseop_opengraph.php:165
+msgid "Use AIOSEO Title and Description"
+msgstr "AIOSEO Başlık ve Açıklama Kullan"
+
+#: modules/aioseop_opengraph.php:178
+msgid "Run Shortcodes In Title"
+msgstr "Başlıkta Kısa Kodları Çalıştır"
+
+#: modules/aioseop_opengraph.php:179
+msgid "Run Shortcodes In Description"
+msgstr "Açıklamada Kısa Kodları Çalıştır"
+
+#: modules/aioseop_opengraph.php:181
+msgid "Site Name"
+msgstr "Site İsmi"
+
+#: modules/aioseop_opengraph.php:186
+msgid "Home Title"
+msgstr "Ana Sayfa Başlığı"
+
+#: modules/aioseop_opengraph.php:198
+msgid "Home Description"
+msgstr "Ana Sayfa Açıklaması"
+
+#: modules/aioseop_opengraph.php:210
+msgid "Home Image"
+msgstr "Anasasyfa Görseli"
+
+#: modules/aioseop_opengraph.php:214
+msgid "Home Article Tags"
+msgstr "Anasayfa Makale Etiketleri"
+
+#: modules/aioseop_opengraph.php:220
+msgid "Autogenerate OG Descriptions"
+msgstr "OG Açıklamaları Otomatik Oluştur"
+
+#: modules/aioseop_opengraph.php:224
+msgid "Select OG:Image Source"
+msgstr "OG:Resim Kaynağı Seçin"
+
+#: modules/aioseop_opengraph.php:227
+msgid "Default Image"
+msgstr "Varsayılan Resim"
+
+#: modules/aioseop_opengraph.php:228
+msgid "Featured Image"
+msgstr "Öne Çıkan Resim"
+
+#: modules/aioseop_opengraph.php:229
+msgid "First Attached Image"
+msgstr "İlk Ekli Resim"
+
+#: modules/aioseop_opengraph.php:230
+msgid "First Image In Content"
+msgstr "İlk İçerikteki Resim"
+
+#: modules/aioseop_opengraph.php:231
+msgid "Image From Custom Field"
+msgstr "Özel Alandaki Resim"
+
+#: modules/aioseop_opengraph.php:232
+msgid "Post Author Image"
+msgstr "Yazar Görselini Yayınla"
+
+#: modules/aioseop_opengraph.php:233
+msgid "First Available Image"
+msgstr "İlk Geçerli Resim"
+
+#: modules/aioseop_opengraph.php:237
+msgid "Use Default If No Image Found"
+msgstr "Görsel Bulunamazsa Varsayılan Görseli Kullan"
+
+#: modules/aioseop_opengraph.php:241
+msgid "Default OG:Image"
+msgstr "Varsayılan OG:Resim"
+
+#: modules/aioseop_opengraph.php:246
+msgid "Default Image Width"
+msgstr "Varsayılan Görsel Genişliği"
+
+#: modules/aioseop_opengraph.php:251
+msgid "Default Image Height"
+msgstr "Varsayılan Görsel Yüksekliği"
+
+#: modules/aioseop_opengraph.php:256
+msgid "Use Custom Field For Image"
+msgstr "Resim için Özel Alan Kullan"
+
+#: modules/aioseop_opengraph.php:261 modules/aioseop_opengraph.php:383
+msgid "Facebook Object Type"
+msgstr "Facebook Nesne Türü"
+
+#: modules/aioseop_opengraph.php:267
+msgid "Image"
+msgstr "Resim"
+
+#: modules/aioseop_opengraph.php:272
+msgid "Custom Image"
+msgstr "Özel Resim"
+
+#: modules/aioseop_opengraph.php:276
+msgid "Specify Image Width"
+msgstr "Resim Genişliğini Belirtin"
+
+#: modules/aioseop_opengraph.php:281
+msgid "Specify Image Height"
+msgstr "Resim Yüksekliğini Belirtin"
+
+#: modules/aioseop_opengraph.php:286
+msgid "Custom Video"
+msgstr "Özelleştirilmiş Video"
+
+#: modules/aioseop_opengraph.php:290
+msgid "Specify Video Width"
+msgstr "Video Genişliğini Belirtin"
+
+#: modules/aioseop_opengraph.php:302
+msgid "Specify Video Height"
+msgstr "Video Yüksekliğini Belirtin"
+
+#: modules/aioseop_opengraph.php:314
+msgid "Default Twitter Card"
+msgstr "Varsayılan Twitter Kartı"
+
+#: modules/aioseop_opengraph.php:317 modules/aioseop_opengraph.php:328
+msgid "Summary"
+msgstr "Özet"
+
+#: modules/aioseop_opengraph.php:318 modules/aioseop_opengraph.php:327
+msgid "Summary Large Image"
+msgstr "Özet büyük görsel"
+
+#: modules/aioseop_opengraph.php:324
+msgid "Twitter Card Type"
+msgstr "Twitter Kart Türü"
+
+#: modules/aioseop_opengraph.php:333
+msgid "Twitter Site"
+msgstr "Twitter Sayfası"
+
+#: modules/aioseop_opengraph.php:337
+msgid "Show Twitter Author"
+msgstr "Twitter Yazarını Göster"
+
+#: modules/aioseop_opengraph.php:339
+msgid "Twitter Domain"
+msgstr "Twitter Domain"
+
+#: modules/aioseop_opengraph.php:343
+msgid "Automatically Generate Article Tags"
+msgstr "Otomatik olarak Makale Etiketleri Oluştur"
+
+#: modules/aioseop_opengraph.php:345
+msgid "Use Keywords In Article Tags"
+msgstr "Makale Etiketlerinde Anahtar Sözcükler Kullan"
+
+#: modules/aioseop_opengraph.php:350
+msgid "Use Categories In Article Tags"
+msgstr "Makale Etiketlerinde Kategoriler Kullan"
+
+#: modules/aioseop_opengraph.php:355
+msgid "Use Post Tags In Article Tags"
+msgstr "Makale Etiketlerinde Yazı Etiketleri Kullan"
+
+#: modules/aioseop_opengraph.php:360
+msgid "Enable Facebook Meta for"
+msgstr "Facebook Metayı Aktifleştir:"
+
+#: modules/aioseop_opengraph.php:390
+msgid "Facebook Debug"
+msgstr "Facebook Hata Ayıklama"
+
+#: modules/aioseop_opengraph.php:405
+msgid "Debug This Post"
+msgstr "Bu yazıdaki hataları ayıkla"
+
+#: modules/aioseop_opengraph.php:410
+msgid "Article Section"
+msgstr "Makale Sekmesi"
+
+#: modules/aioseop_opengraph.php:416
+msgid "Article Tags"
+msgstr "Makale etiketleri"
+
+#: modules/aioseop_opengraph.php:422
+msgid "Show Facebook Publisher on Articles"
+msgstr "Makalelerde Facebook Yayınlayıcısını Göster"
+
+#: modules/aioseop_opengraph.php:426
+msgid "Show Facebook Author on Articles"
+msgstr "Makalelerde facebook yazarını göster"
+
+#: modules/aioseop_opengraph.php:428 modules/aioseop_opengraph.php:539
+msgid "Social Profile Links"
+msgstr "Sosyal Profil Bağlantıları"
+
+#: modules/aioseop_opengraph.php:434
+msgid "Person or Organization?"
+msgstr "Kişi ya da organizasyon?"
+
+#: modules/aioseop_opengraph.php:437
+msgid "Person"
+msgstr "Kişi"
+
+#: modules/aioseop_opengraph.php:438
+msgid "Organization"
+msgstr "Organizasyon"
+
+#: modules/aioseop_opengraph.php:442
+msgid "Associated Name"
+msgstr "İlgili isim"
+
+#: modules/aioseop_opengraph.php:498
+msgid "Social Settings"
+msgstr "Sosyal Ayarlar"
+
+#: modules/aioseop_opengraph.php:534
+msgid "Image Settings"
+msgstr "Görsel Ayarları"
+
+#: modules/aioseop_opengraph.php:544
+msgid "Facebook Settings"
+msgstr "Facebook Ayarları"
+
+#: modules/aioseop_opengraph.php:560
+msgid "Twitter Settings"
+msgstr "Twitter Ayarları"
+
+#: modules/aioseop_opengraph.php:565
+msgid "Scan Social Meta"
+msgstr "Sosyal Meta Tara"
+
+#: modules/aioseop_opengraph.php:599
+msgid "Static front page detected, suggested Facebook Object Type is 'website'."
+msgstr "Ön sayfa Facebook Nesne Türünün \"web sayfası\" olarak en iyi olduğunu algıladı."
+
+#: modules/aioseop_opengraph.php:604
+msgid "Blog on front page detected, suggested Facebook Object Type is 'blog'."
+msgstr "Blog ön sayfada Facebook Nesne Türünün \"blog\" olarak en iyi olduğunu algıladı."
+
+#: modules/aioseop_opengraph.php:656
+msgid "Default "
+msgstr "Varsayılan"
+
+#: modules/aioseop_opengraph.php:723
+msgid "Scan Now"
+msgstr "Şimdi Tara"
+
+#: modules/aioseop_opengraph.php:724
+msgid "Scan your site for duplicate social meta tags."
+msgstr "Kopya sosyal meta etiketi için sitenizi tarayın."
+
+#: modules/aioseop_opengraph.php:1239
+msgid "Object Type"
+msgstr "Nesne Türü"
+
+#: modules/aioseop_opengraph.php:1246
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "Yazı türünüzün içeriğini en iyi şekilde anlatan varsayılan değer seçin."
+
+#: modules/aioseop_performance.php:21
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "Bu ayar, PHP hafıza sınırınızı makul bir seviyeye yükseltmenize imkan verir. Not: WordPress çekirdeği veya diğer WordPress eklentileri de hafıza limitini değiştirebilir."
+
+#: modules/aioseop_performance.php:22
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "Bu ayar, PHP iştetim sürenizi makul bir seviyeye yükseltmenize imkan verir. "
+
+#: modules/aioseop_performance.php:23
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "Başlığın yeniden yazılmış olduğundan emin olmak için çıktı koruması uygula. Bu seçeneği, başlık etiketini, temanız veya başka bir eklenti tarafından belirlendiği durumlarla karşılaşmanız durumunda etkinleştirin."
+
+#: modules/aioseop_performance.php:28
+msgid "Raise memory limit"
+msgstr "Hafıza sınırını yükselt"
+
+#: modules/aioseop_performance.php:32 modules/aioseop_performance.php:44
+msgid "Use the system default"
+msgstr "Sistem varsayılanını kullan"
+
+#: modules/aioseop_performance.php:40
+msgid "Raise execution time"
+msgstr "Yürütme zamanını yükselt"
+
+#: modules/aioseop_performance.php:49
+msgid "No limit"
+msgstr "Sınır yok"
+
+#: modules/aioseop_performance.php:86
+msgid "System Status"
+msgstr "Sistem Durumu"
+
+#: modules/aioseop_performance.php:170
+msgid "Not set"
+msgstr "Ayarlı değil"
+
+#: modules/aioseop_performance.php:173 modules/aioseop_performance.php:178
+msgid "On"
+msgstr "Açık"
+
+#: modules/aioseop_performance.php:175 modules/aioseop_performance.php:180
+msgid "Off"
+msgstr "Kapalı"
+
+#: modules/aioseop_performance.php:185 modules/aioseop_performance.php:190
+#: modules/aioseop_performance.php:195 modules/aioseop_performance.php:200
+#: modules/aioseop_performance.php:205 modules/aioseop_performance.php:233
+msgid "N/A"
+msgstr "N/A"
+
+#: modules/aioseop_performance.php:203
+msgid " MByte"
+msgstr " MByte"
+
+#: modules/aioseop_performance.php:208 modules/aioseop_performance.php:213
+#: modules/aioseop_performance.php:218 modules/aioseop_performance.php:227
+msgid "Yes"
+msgstr "Evet"
+
+#: modules/aioseop_performance.php:241
+msgid "Operating System"
+msgstr "İşletim Sistemi"
+
+#: modules/aioseop_performance.php:242
+msgid "Server"
+msgstr "Sunucu"
+
+#: modules/aioseop_performance.php:243
+msgid "Memory usage"
+msgstr "Bellek kullanımı"
+
+#: modules/aioseop_performance.php:244
+msgid "MYSQL Version"
+msgstr "MYSQL Sürümü"
+
+#: modules/aioseop_performance.php:245
+msgid "SQL Mode"
+msgstr "SQL Modu"
+
+#: modules/aioseop_performance.php:246
+msgid "PHP Version"
+msgstr "PHP Sürümü"
+
+#: modules/aioseop_performance.php:247
+msgid "PHP Safe Mode"
+msgstr "PHP Güvenli Mod"
+
+#: modules/aioseop_performance.php:248
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: modules/aioseop_performance.php:249
+msgid "PHP Memory Limit"
+msgstr "PHP Hafıza Sınırı"
+
+#: modules/aioseop_performance.php:250
+msgid "PHP Max Upload Size"
+msgstr "PHP Maks. Yükleme Boyutu"
+
+#: modules/aioseop_performance.php:251
+msgid "PHP Max Post Size"
+msgstr "PHP Maks. Yazı Boyutu"
+
+#: modules/aioseop_performance.php:252
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Maks. Script Yürütme Zamanı"
+
+#: modules/aioseop_performance.php:253
+msgid "PHP Exif support"
+msgstr "PHP Exif desteği"
+
+#: modules/aioseop_performance.php:254
+msgid "PHP IPTC support"
+msgstr "PHP IPTC desteği"
+
+#: modules/aioseop_performance.php:255
+msgid "PHP XML support"
+msgstr "PHP XML desteği"
+
+#: modules/aioseop_performance.php:256
+msgid "Site URL"
+msgstr "Site URL"
+
+#: modules/aioseop_performance.php:257
+msgid "Home URL"
+msgstr "Ana URL"
+
+#: modules/aioseop_performance.php:258
+msgid "WordPress Version"
+msgstr "WordPress Sürümü"
+
+#: modules/aioseop_performance.php:259
+msgid "WordPress DB Version"
+msgstr "WordPress DB Sürümü"
+
+#: modules/aioseop_performance.php:260
+msgid "Multisite"
+msgstr "Çoklu site"
+
+#: modules/aioseop_performance.php:261
+msgid "Active Theme"
+msgstr "Aktif Tema"
+
+#: modules/aioseop_performance.php:276
+msgid "All in One SEO Pack Pro Debug Info"
+msgstr "All in One SEO Pack Pro Debug Bilgisi"
+
+#: modules/aioseop_performance.php:294
+msgid "Form submission error: verification check failed."
+msgstr "Form gönderme hatası: doğrulama denetimi başarısız oldu."
+
+#: modules/aioseop_performance.php:308
+msgid "SFWD Debug Mail From Site %s."
+msgstr "%s Sitesinden SFWD Hata Postası."
+
+#: modules/aioseop_performance.php:309
+msgid "Sent to %s."
+msgstr "%s için Gönderildi."
+
+#: modules/aioseop_performance.php:311
+msgid "Failed to send to %s."
+msgstr "%s için gönderilemedi."
+
+#: modules/aioseop_performance.php:314
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "Hata: göndermeden önce lütfen bir e-posta adresinizi girin."
+
+#: modules/aioseop_performance.php:320
+msgid "E-mail debug information"
+msgstr "E-posta ayıklama bilgisi"
+
+#: modules/aioseop_performance.php:321
+msgid "Submit"
+msgstr "Gönder"
+
+#: modules/aioseop_robots.php:18 modules/aioseop_robots.php:32
+msgid "Rule Type"
+msgstr "Kural Tipi"
+
+#: modules/aioseop_robots.php:19 modules/aioseop_robots.php:38
+msgid "User Agent"
+msgstr "User Agent"
+
+#: modules/aioseop_robots.php:20 modules/aioseop_robots.php:43
+msgid "Directory Path"
+msgstr "Dizine Erişim Yolu"
+
+#: modules/aioseop_robots.php:28
+msgid "Use the rule builder below to add rules to create a new Robots.txt file.  If you already have a Robots.txt file you should use the File Editor feature in All in One SEO Pack to edit it or you can delete your current Robots.txt file and start a new one with the rule builder below."
+msgstr "Aşağıdaki kural yapıcıyı kullanarak yeni bir robots.txt dosyası oluşturmak için kurallar ekleyin. Hali hazırda robots.txt dosyanızın olması halinde All in One SEO Pack'daki Dosya Düzenleyici özelliğini kullanarak dosyanızı düzenleyebilir veya mevcut robots.txt dosyanızı silerek aşağıdaki kural yapıcıyla yeni bir dosya oluşturabilirsiniz."
+
+#: modules/aioseop_robots.php:48
+msgid "Generate Robots.txt"
+msgstr "Robots.txt oluştur"
+
+#: modules/aioseop_robots.php:60
+msgid "Add Rule"
+msgstr "Kural ekle"
+
+#: modules/aioseop_robots.php:66
+msgid "Save Robots.txt File"
+msgstr "Robots.txt dosyasını kaydet"
+
+#: modules/aioseop_robots.php:72
+msgid "Delete Robots.txt File"
+msgstr "Robots.txt dosyasını sil"
+
+#: modules/aioseop_robots.php:78
+msgid "Click the Optimize button below and All in One SEO Pack will analyze your Robots.txt file to make sure it complies with the standards for Robots.txt files.  The results will be displayed in a table below."
+msgstr "Aşağıdaki optimize et butonuna tıklamanızın ardından All in One SEO Pack robot.txt dosyanızı analiz ederek dosyanızın robot.txt dosyalarının standartlarıyla uyumlu olup olmadığından emin olmanızı sağlar. Sonuçlar aşağıdaki tabloda görüntülenecektir."
+
+#: modules/aioseop_robots.php:84
+msgid "Update Robots.txt File"
+msgstr "Robots.txt dosyasını güncelle"
+
+#: modules/aioseop_robots.php:91
+msgid "Disregard Changes"
+msgstr "Değişiklikleri yoksay"
+
+#: modules/aioseop_robots.php:97
+msgid "Optimize"
+msgstr "Optimize et"
+
+#: modules/aioseop_robots.php:130
+msgid "Create a Robots.txt File"
+msgstr "Bir robots.txt dosyası oluştur"
+
+#: modules/aioseop_robots.php:144
+msgid "Optimize your Robots.txt File"
+msgstr "Robots.txt dosyanızı optimize edin"
+
+#: modules/aioseop_robots.php:154
+msgid "Your Robots.txt file has been optimized.  Here are the results and recommendations.  Click the Update Robots.txt File button below to write these changes to your Robots.txt file.  Click the Disregard Changes button to ignore these recommendations and keep your current Robots.txt file."
+msgstr "Robots.txt dosyanız optimize edildi. Burada sonuçları ve tavsiyeleri görebilirsiniz. Aşağıdaki robots.txt dosyasını güncelleye tıklayarak bu değişiklikleri robots.txt dosyanıza ekleyin. Tavsiyeleri gözardı etmek için değişiklikleri yoksay butonuna tıklayabilir ve mevcut robots.txt dosyanızı koruyabilirsiniz."
+
+#: modules/aioseop_robots.php:299 modules/aioseop_robots.php:301
+msgid "Current File"
+msgstr "Mevcut dosya"
+
+#: modules/aioseop_robots.php:299
+msgid "Proposed Changes"
+msgstr "Önerilen değişiklikler"
+
+#: modules/aioseop_robots.php:358
+msgid "Legend"
+msgstr "Açıklamalar"
+
+#: modules/aioseop_robots.php:360
+msgid "The yellow indicator means that a non-standard extension was recognized; not all crawlers may recognize it or interpret it the same way. The Allow and Sitemap directives are commonly used by Google and Yahoo."
+msgstr "Sarı gösterge standart olmayan bir uzatmanın teşhis edildiği anlamına gelir tüm tarayıcılar onu teşhis edemeyebilir ya da aynı şekilde yorumlamayabilir. İzin ve site haritası bildirimleri Google ve Yahoo tarafınan yaygın bir şekilde kullanılır."
+
+#: modules/aioseop_robots.php:361
+msgid "The red indicator means that the syntax is invalid for a robots.txt file."
+msgstr "Kırmızı gösterge söz diziminin bir robots.txt dosyası için geçersiz olduğu anlamına gelir."
+
+#: modules/aioseop_robots.php:363
+msgid "More Information"
+msgstr "Daha fazla bilgi"
+
+#: modules/aioseop_sitemap.php:31
+msgid "XML Sitemap"
+msgstr "XML site haritası"
+
+#: modules/aioseop_sitemap.php:41
+msgid "Specifies the name of your sitemap file. This will default to 'sitemap'."
+msgstr "Site haritası dosyanızın adını belirler. Bu varsayılan olarak 'site haritası' şeklindedir."
+
+#: modules/aioseop_sitemap.php:42
+msgid "Notify Google when you update your sitemap settings."
+msgstr "Site haritası ayarlarınızı güncellediğinizde bunu Google'a bildir."
+
+#: modules/aioseop_sitemap.php:43
+msgid "Notify Bing when you update your sitemap settings."
+msgstr "Site haritası ayarlarınızı güncellediğinizde bunu Bing'e bildir."
+
+#: modules/aioseop_sitemap.php:45
+msgid "Organize sitemap entries into distinct files in your sitemap. Enable this only if your sitemap contains over 50,000 URLs or the file is over 5MB in size."
+msgstr "Site haritası girdilerini site haritanızdaki belirgin dosyalarınızın içine doğru düzenleyin. Bunu sadece site haritanızın 50,000'den fazla URL içermesi ya da dosyanın 5MB'dan büyük olması halinde etkinleştirin."
+
+#: modules/aioseop_sitemap.php:46
+msgid "Split long sitemaps into separate files."
+msgstr "Uzun site haritalarını ayrı dosyalar halinde ayır."
+
+#: modules/aioseop_sitemap.php:47
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Bir site haritasındaki maksimum yazı sayısını belirlemenizi sağlar (50,000'e kadar)."
+
+#: modules/aioseop_sitemap.php:48
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Site haritanızda hangi yazı türlerinin yer alacağını seçin."
+
+#: modules/aioseop_sitemap.php:49
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "Site haritanızda hangi sınıflama arşivlerinin yer alacağını seçin."
+
+#: modules/aioseop_sitemap.php:50
+msgid "Include Date Archives in your sitemap."
+msgstr "Site haritanıza tarih arşivlerini dahil edin."
+
+#: modules/aioseop_sitemap.php:51
+msgid "Include Author Archives in your sitemap."
+msgstr "Sitenize yazar arşivlerini dahil edin."
+
+#: modules/aioseop_sitemap.php:52
+msgid "Create a compressed sitemap file in .xml.gz format."
+msgstr ".xml.gz formatında bir sıkıştırılmış site haritası oluşturun."
+
+#: modules/aioseop_sitemap.php:53
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "Sanal robots.txt dosyanıza bir sitemap.xml linki yerleştirir."
+
+#: aioseop_class.php:170
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - Orijinal URL yolu, \"/url-gecerli-degildir/\" gibi"
+
+#: aioseop_class.php:171
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - Okunabilir biçimde URL yolu,  \"URL geçerli değildir\" gibi"
+
+#: aioseop_class.php:172
+msgid "%404_title% - Additional 404 title input\""
+msgstr "%404_title% - Ek 404 başlık girişi\""
+
+#: aioseop_class.php:173
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "Bu satır, sayfalanmış dizin sayfa (ana sayfa veya arşiv sayfaları gibi)  başlıklarına eklenir/başına eklenir."
+
+#: aioseop_class.php:174 aioseop_class.php:3194 aioseop_class.php:3246
+msgid "The following macros are supported:"
+msgstr " Aşağıdaki makrolar desteklenir:"
+
+#: aioseop_class.php:175
+msgid "%page% - The page number"
+msgstr "%page% - Sayfa numarası"
+
+#: aioseop_class.php:176
+msgid "Check this if you want to use All in One SEO Pack with any Custom Post Types on this site."
+msgstr "All in One SEO Pack'i bu sitedeki tüm Özel Yazı Tiplerinde kullanmak istiyorsanız bunu işaretleyin."
+
+#: aioseop_class.php:177
+msgid "This will show or hide the advanced options for SEO for Custom Post Types."
+msgstr "Bu, Özel Yazı Tipleri için gelişmiş seçenekleri gösterecek veya gizleyecektir."
+
+#: aioseop_class.php:178
+msgid "Use these checkboxes to select which Post Types you want to use All in One SEO Pack with."
+msgstr "All in One SEO Pack'i hangi Yazı Tipleri ile kullanmak istediğinizi seçmek için bu işaret kutucuklarını kullanın."
+
+#: aioseop_class.php:180
+msgid "This allows you to set the title tags for each Custom Post Type."
+msgstr "Bu, her Özel Yazı Tipi için başlık etiketlerini belirlemenize imkan verecektir."
+
+#: aioseop_class.php:181
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "Bu, SEO başlığı, SEO anahtar kelimeleri ve SEO açıklamaları kolonlarını hangi ekranların görüntüleyeceğini seçmenize izin verir."
+
+#: aioseop_class.php:182
+msgid "Check this to add All in One SEO Pack to the Admin Bar for easy access to your SEO settings."
+msgstr "SEO ayarlarınıza kolay erişim için All in One SEO Pack'i Yönetici Çubuğuna eklemek için bunu işaretleyin."
+
+#: aioseop_class.php:183
+msgid "Check this to move the All in One SEO Pack menu item to the top of your WordPress Dashboard menu."
+msgstr "All in One SEO Pack menü öğesini WordPress Panel menüsünün en üstüne taşımak için bunu işaretleyin."
+
+#: aioseop_class.php:184
+msgid "Enter your verification code here to verify your site with Google Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Google Web Yöneticisi Araçları ile sitenizi doğrulamak için doğrulama kodunu buraya girin.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Bu ayar ile ilgili belgeler için buraya tıklayın</a>"
+
+#: aioseop_class.php:185
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Bing Web Uzmanı Merkezi ile sitenizi doğrulamak için doğrulama kodunu buraya girin.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Bu ayar ile ilgili belgeler için buraya tıklayın</a>"
+
+#: aioseop_class.php:186
+msgid "Enter your verification code here to verify your site with Pinterest.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Pinterest ile sitenizi doğrulamak için doğrulama kodunu buraya girin.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Bu ayar ile ilgili belgeler için buraya tıklayın</a>"
+
+#: aioseop_class.php:187
+msgid "Enter your Google+ Profile URL here to add the rel=“author” tag to your site for Google authorship. It is recommended that the URL you enter here should be your personal Google+ profile.  Use the Advanced Authorship Options below if you want greater control over the use of authorship."
+msgstr "Sitenize rel=“author” etiketi eklemek için Google+ Profil URL'nizi buraya girin. Buraya girdiğiniz URL'nin kişisel Google+ profiliniz olması tavsiye edilir. Yazarlığın kullanımı ile alakalı daha fazla kontrole sahip olmak istiyorsanız aşağıdaki ileri seviye yazarlık seçeneklerini kullanın."
+
+#: aioseop_class.php:188
+msgid "Check this to remove the Google Plus field from the user profile screen."
+msgstr "Kullanıcı profil ekranından Google Plus alanını kaldırmak için bunu işaretleyin."
+
+#: aioseop_class.php:189
+msgid "Enable this to display advanced options for controlling Google Plus authorship information on your website."
+msgstr "Sitenizdeki Google Plus yazarlık bilgisini kontrol etmek için ileri seviye seçenekleri görüntülemek için bunu etkinleştirin."
+
+#: aioseop_class.php:193
+msgid "Add markup to display the Google Sitelinks Search Box next to your search results in Google."
+msgstr "Google Sitelinks Search Box'ı Google arama sonuçlarınızın yanında görüntülemek için biçimlendirme ekleyin."
+
+#: aioseop_class.php:194
+msgid "Add markup to tell Google the preferred name for your website."
+msgstr "Google'a sitenizin tercih edilen adını bildirmek için biçimlendirme ekleyin."
+
+#: aioseop_class.php:195
+msgid "Press the connect button to connect with Google Analytics; or if already connected, press the disconnect button to disable and remove any stored analytics credentials."
+msgstr "Google Analytics ile bağlanmak için bağlan butonuna tıklayın; eğer bağlıysanız, saklanan analytics kimliklerini kaldırmak ve iptal etmek için bağlantı kaldır butonuna tıklayın."
+
+#: aioseop_class.php:196
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "Google Analytics kullanarak sitenize gelen ziyaretçilerin davranışlarını izlemek için Google Analytics ID'nizi buraya girin."
+
+#: aioseop_class.php:197
+msgid "Use the new Universal Analytics tracking code for Google Analytics."
+msgstr "Google Analytics için yeni Evrensel Analytics takip kodunu kullanın."
+
+#: aioseop_class.php:198
+msgid "Check to use advanced Google Analytics options."
+msgstr "İleri seviye Google Analytics seçeneklerini kullanmak için işaretleyin."
+
+#: aioseop_class.php:199
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "Çerez alan adınızı ayarlamak için alan adınızı başında http:// olmadan girin. "
+
+#: aioseop_class.php:200
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "Birden fazla veya ek alan adlarını takip etmeyi etkinleştirmek için bu seçeneği kullanın."
+
+#: aioseop_class.php:201
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "Takip etmek için ek alan adları listesini buraya ekleyin. Her satıra başında http:// olmadan yalnızca bir alan adı girin."
+
+#: aioseop_class.php:202
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "Bu, Google Analytics'te IP Anonimleştirme desteğini etkinleştirir."
+
+#: aioseop_class.php:203
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "Bu, Google Analytics'te reklam veren özelliklerini görüntüleme desteğini etkinleştirir."
+
+#: aioseop_class.php:204
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "Rol olarak Google Analytics izlemede giriş yapan kullanıcıları harici tutar."
+
+#: aioseop_class.php:205
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "Giden bağlantıları Google Analytics ile takip etmek istiyorsanız bunu işaretleyin."
+
+#: aioseop_class.php:206
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "Bu, Google Analytics'te Geliştirilmiş Bağlantı İlişkilendirme desteğini etkinleştirir."
+
+#: aioseop_class.php:207
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "Bu, Google Analytics'te Geliştirilmiş E-Ticaret desteğini etkinleştirir."
+
+#: aioseop_class.php:208
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "Tüm Yazı Tipleri için varsayılan NOINDEX ayarlarını belirleyin."
+
+#: aioseop_class.php:209
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "Tüm Yazı Tipleri için varsayılan NOFOLLOW ayarlarını belirleyin."
+
+#: aioseop_class.php:211
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "Arama motorlarının Kategori Arşivlerini indekslememesi için bunu işaretleyin. Tekrarlanan içeriğin önüne geçmek için kullanışlı."
+
+#: aioseop_class.php:212
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "Arama motorlarından Tarih Arşivlerini indexlememesini istemek için bunu işaretleyin. Tekrarlanan içeriğin önüne geçmek için kullanışlı."
+
+#: aioseop_class.php:213
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "Arama motorlarından Yazar Arşivlerini indexlememesini istemek için bunu işaretleyin. Tekrarlanan içeriğin önüne geçmek için kullanışlı."
+
+#: aioseop_class.php:214
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "Arama motorlarının tag arşivlerini indexlemesini istemek için bunu işaretleyin. Tekrarlanan içeriğin önüne geçmek için kullanışlı."
+
+#: aioseop_class.php:215
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "Arama motorlarının Arama Sayfasını indexlemesini istemek için bunu işaretleyin. Tekrarlanan içeriğin önüne geçmek için kullanışlı."
+
+#: aioseop_class.php:216
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "Arama motorlarının 404 sayfasını indexlemesini istemek için bunu işaretleyin."
+
+#: aioseop_class.php:217
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "Arama motorlarının Sınıflandırma Arşivlerini indexlememesini istemek için bunu işaretleyin. Tekrarlanan içeriğin önüne geçmek için kullanışlı."
+
+#: aioseop_class.php:218
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Arama motorlarından numaralanmış sayfaları/yazıları indexlememesini istemek için bunu işaretleyin. Tekrarlanan içeriğin önüne geçmek için kullanışlı."
+
+#: aioseop_class.php:219
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Arama motorlarından numaralandırılmış sayfaların/yazıların bağlantılarını takip etmemesini istemek için bunu işaretleyin. Tekrarlanan içeriğin önüne geçmek için kullanışlı."
+
+#: aioseop_class.php:220
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for your entire site."
+msgstr "Arama motorlarından tüm siteniz için Open Directory Project açıklamalarını kullanmasını engellemek için bunu işaretleyin."
+
+#: aioseop_class.php:221
+msgid "Set the default noodp setting for each Post Type."
+msgstr "Her bir yazı tipi için varsayılan noodp ayarını belirleyin."
+
+#: aioseop_class.php:222
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for your entire site."
+msgstr "Yahoo!'dan tüm siteniz için, dizininde bulunan açıklamaları kullanmasını engellemek için bu kutuyu işaretleyin."
+
+#: aioseop_class.php:223
+msgid "Set the default noydir setting for each Post Type."
+msgstr "Tüm yazı tipleri için varsayılan noydir ayarlarını belirleyin."
+
+#: aioseop_class.php:224
+msgid "Check this and your Meta Descriptions won't be generated from the excerpt."
+msgstr "Bunu işaretlerseniz, meta açıklamanız alıntıdan oluşturulmayacaktır."
+
+#: aioseop_class.php:225
+msgid "Check this and your Meta Descriptions will be auto-generated from your excerpt or content."
+msgstr "Bunu işaretlerseniz, meta açıklamanız alıntıdan veya içeriğinizden otomatik olarak oluşturulacaktır."
+
+#: aioseop_class.php:226
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "Bunu işaretlerseniz, içerikten otomatik olarak oluşturulan açıklamalar için kısa kodlar uygulanmış olacak."
+
+#: aioseop_class.php:227
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "Bunu işaretlerseniz, numaralanmış sayfaların 2. ve daha sonraki sayfalarından meta açıklama kaldırılacaktır."
+
+#: aioseop_class.php:228
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "Açıklamanızın uzunluğu önemli olmaksızın kesilmesinin önüne geçmek için bunu işaretleyin."
+
+#: aioseop_class.php:229
+msgid "Check this to support Schema.org markup, i.e., itemprop on supported metadata."
+msgstr "Schema.org biçimlendirmesini desteklemek için bunu işaretleyin, ör. desteklenen metadata için itemprop. "
+
+#: aioseop_class.php:230
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "XMLRPC ile kullanmak için dahili postmeta alanlarının korumasını kaldırmak için bunu işaretleyin. Eğer bunun ne olduğunu bilmiyorsanız, işaretlenmemiş olarak bırakın."
+
+#: aioseop_class.php:232
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Buraya yazdıklarınız kelimesi kelimesine tüm Yazıların başlığına kopyalanacaktır. Buraya istediğiniz herhangi bir ek başlığı ve hatta stil sayfalarına referans bile girebilirsiniz."
+
+#: aioseop_class.php:233
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Buraya yazdıklarınız kelimesi kelimesine tüm Sayfaların başlığına kopyalanacaktır. Buraya istediğiniz herhangi bir ek başlığı ve hatta stil sayfalarına referans bile girebilirsiniz."
+
+#: aioseop_class.php:234
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "Ayarlar, okuma, ön sayfa görünümlerinde sabit ön sayfa seçtiyseniz, buraya yazdıklarınız kelimesi kelimesine ön sayfa başlığına kopyalanacaktır. Buraya istediğiniz herhangi bir ek başlığı ve hatta stil sayfalarına referans bile girebilirsiniz. Eğer onları belirlediyseniz ve buraya hiçbir şey girilmediyse, bu ek sayfa başlıkları kullanımına geri düşecektir."
+
+#: aioseop_class.php:235
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Ayarlar, okumadan ön sayfanızın en son yazılarınızı görüntülemesini seçtiyseniz, buraya yazdıklarınız kelimesi kelimesine ana sayfanızın başlığına kopyalanacaktır. Ayrıca ayarlar, okumadan belirlediyseniz, bu kelimesi kelimesine yazılar sayfanızın başlığına da kopyalanacaktır. Buraya istediğiniz herhangi bir ek başlığı ve hatta stil sayfalarına referans bile girebilirsiniz."
+
+#: aioseop_class.php:329
+msgid "A preview of what this page might look like in search engine results."
+msgstr "Bu sayfa arama motoru sonuçlarında neye benzeyeceğini gösteren bir önizlemedir."
+
+#: aioseop_class.php:330
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "Bu sayfa için etiket başlığında özel bir başlık gösterir."
+
+#: aioseop_class.php:331
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "Bu sayfa için META açıklamasıdır. Bu herhangi bir otomatik açıklama oluşturmayı geçersiz kılar."
+
+#: aioseop_class.php:332
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "Bu sayfa için en önemli anahtar kelimelerinin virgülle ayrılmış listesi META anahtar kelimeleri olarak yazılacak."
+
+#: aioseop_class.php:333
+msgid "Override the canonical URLs for this post."
+msgstr "Bu yazı için canonical URL'leri geçersiz kıl."
+
+#: aioseop_class.php:334
+msgid "Check this box to ask search engines not to index this page."
+msgstr "Bu sayfayı arama motolarının indekslememesi için işaretleyin."
+
+#: aioseop_class.php:335
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "Arama motorlarının bu sayfadan bağlantı takip etmemesi için işaretleyin."
+
+#: aioseop_class.php:336
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for this page."
+msgstr "Arama motorlarının bu sayfa için Open Directory Project 'den açıklamaları kullanmaması için işaretleyin."
+
+#: aioseop_class.php:337
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for this page."
+msgstr "Yahoo! motorunun bu sayfa için Yahoo! directory 'den açıklamaların kullanılmaması için işaretleyin."
+
+#: aioseop_class.php:338
+msgid "Set the title attribute for menu links."
+msgstr "Menü bağlantıları için başlık özelliğini ayarlayın."
+
+#: aioseop_class.php:339
+msgid "Set the label for this page menu item."
+msgstr "Bu sayfa menü öğresi için etiket ayarlayın."
+
+#: aioseop_class.php:340
+msgid "Don't display this page in the sitemap."
+msgstr "Bu sayfayı site haritasında gösterme."
+
+#: aioseop_class.php:341
+msgid "Disable SEO on this page."
+msgstr "Bu sayfada SEO 'u iptal et."
+
+#: aioseop_class.php:342
+msgid "Disable Google Analytics on this page."
+msgstr "Bu sayfada Google Analytics 'i iptal et"
+
+#: aioseop_class.php:351
+msgid "I enjoy this plugin and have made a donation:"
+msgstr "Eklenti hoşuma gitti, bağış yaptım:"
+
+#: aioseop_class.php:354
+msgid "Home Title:"
+msgstr "Ana Sayfa Başlığı:"
+
+#: aioseop_class.php:364
+msgid "Home Description:"
+msgstr "Ana Sayfa Açıklaması:"
+
+#: aioseop_class.php:374
+msgid "Use Keywords:"
+msgstr "Anahtar Kelimeler:"
+
+#: aioseop_class.php:378 aioseop_class.php:394 aioseop_class.php:428
+#: aioseop_class.php:438 aioseop_class.php:447 aioseop_class.php:536
+#: aioseop_class.php:557 aioseop_class.php:649 aioseop_class.php:665
+#: aioseop_class.php:698 modules/aioseop_performance.php:67
+msgid "Enabled"
+msgstr "Etkin"
+
+#: aioseop_class.php:379 aioseop_class.php:395 aioseop_class.php:429
+#: aioseop_class.php:439 aioseop_class.php:448 aioseop_class.php:537
+#: aioseop_class.php:558 aioseop_class.php:650 aioseop_class.php:666
+#: aioseop_class.php:699 modules/aioseop_performance.php:68
+msgid "Disabled"
+msgstr "Pasif"
+
+#: aioseop_class.php:383
+msgid "Home Keywords (comma separated):"
+msgstr "Ana Sayfa Anahtar Kelimeleri (virgül kullanın):"
+
+#: aioseop_class.php:390
+msgid "Use Static Front Page Instead"
+msgstr "Sabit ön sayfa yerine kullan"
+
+#: aioseop_class.php:399
+msgid "Canonical URLs:"
+msgstr "Standart URL 'ler:"
+
+#: aioseop_class.php:403
+msgid "No Pagination for Canonical URLs:"
+msgstr "Canonical URL'ler için Sayfa Numaralandırma Yok:"
+
+#: aioseop_class.php:408
+msgid "Enable Custom Canonical URLs:"
+msgstr "Özel Canonical URL'leri etkinleştir:"
+
+#: aioseop_class.php:413
+msgid "Set Protocol For Canonical URLs:"
+msgstr "Canonical URL'ler için Protokol Ayarla:"
+
+#: aioseop_class.php:417
+msgid "Auto"
+msgstr "Otomatik"
+
+#: aioseop_class.php:418
+msgid "HTTP"
+msgstr "HTTP"
+
+#: aioseop_class.php:419
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: aioseop_class.php:424
+msgid "Rewrite Titles:"
+msgstr "Başlıkları Biçimlendir:"
+
+#: aioseop_class.php:433 modules/aioseop_performance.php:63
+msgid "Force Rewrites:"
+msgstr "Biçimlendirmeye Zorla:"
+
+#: aioseop_class.php:443
+msgid "Use Original Title:"
+msgstr "Orjinal Başlığı Kullan:"
+
+#: aioseop_class.php:456
+msgid "Capitalize Category Titles:"
+msgstr "Kategori Başlıklarını Büyük Harfe Çevir:"
+
+#: aioseop_class.php:460
+msgid "Home Page Title Format:"
+msgstr "Ana sayfa başlık formatı:"
+
+#: aioseop_class.php:466
+msgid "Page Title Format:"
+msgstr "Sayfa Başlık Biçimi:"
+
+#: aioseop_class.php:472
+msgid "Post Title Format:"
+msgstr "Yazı Başlık Biçimi:"
+
+#: aioseop_class.php:478
+msgid "Category Title Format:"
+msgstr "Kategori Başlık Biçimi:"
+
+#: aioseop_class.php:484
+msgid "Archive Title Format:"
+msgstr "Arşiv başlık formatı:"
+
+#: aioseop_class.php:490
+msgid "Date Archive Title Format:"
+msgstr "Tarih Arşivi Başlık Biçimi"
+
+#: aioseop_class.php:496
+msgid "Author Archive Title Format:"
+msgstr "Yazar Arşivi Başlık Biçimi:"
+
+#: aioseop_class.php:502
+msgid "Tag Title Format:"
+msgstr "Etiket Başlığı Biçimi"
+
+#: aioseop_class.php:508
+msgid "Search Title Format:"
+msgstr "Arama Başlığı Biçimi:"
+
+#: aioseop_class.php:514
+msgid "Description Format"
+msgstr "Açıklama Biçimi"
+
+#: aioseop_class.php:520
+msgid "404 Title Format:"
+msgstr "404 Başlık Biçimi:"
+
+#: aioseop_class.php:526
+msgid "Paged Format:"
+msgstr "Sayfalanmış Biçim:"
+
+#: aioseop_class.php:532
+msgid "SEO for Custom Post Types:"
+msgstr "Özel Yazı Türleri için SEO:"
+
+#: aioseop_class.php:541
+msgid "SEO on only these post types:"
+msgstr "Yalnızca bu yazı türleri için SEO:"
+
+#: aioseop_class.php:553
+msgid "Enable Advanced Options:"
+msgstr "Gelişmiş Seçenekleri Etkinleştir:"
+
+#: aioseop_class.php:564
+msgid "Default to NOINDEX:"
+msgstr "NOINDEX varsayılanı:"
+
+#: aioseop_class.php:569
+msgid "Default to NOFOLLOW:"
+msgstr "NOFOLLOW varsayılanı:"
+
+#: aioseop_class.php:574
+msgid "Default to NOODP:"
+msgstr "Varsayılandan NOODP'a:"
+
+#: aioseop_class.php:579
+msgid "Default to NOYDIR:"
+msgstr "Varsayılandan NOYDIR'a:"
+
+#: aioseop_class.php:584
+msgid "Custom titles:"
+msgstr "Özel başlıklar:"
+
+#: aioseop_class.php:594
+msgid "Show Column Labels for Custom Post Types:"
+msgstr "Özel Yazı Türleri için Sutun Etiketlerini Göster:"
+
+#: aioseop_class.php:600
+msgid "Display Menu In Admin Bar:"
+msgstr "Yönetici Bölümünde Menüyü Göster:"
+
+#: aioseop_class.php:604
+msgid "Display Menu At The Top:"
+msgstr "Üstte Menüyü Göster:"
+
+#: aioseop_class.php:608
+msgid "Google Webmaster Tools:"
+msgstr "Google Web Yöneticisi Araçları:"
+
+#: aioseop_class.php:613
+msgid "Bing Webmaster Center:"
+msgstr "Bing Web Uzmanı Merkezi:"
+
+#: aioseop_class.php:618
+msgid "Pinterest Site Verification:"
+msgstr "Pinterest Site Doğrulaması:"
+
+#: aioseop_class.php:623
+msgid "Google Plus Default Profile:"
+msgstr "Google Plus Varsayılan Profili:"
+
+#: aioseop_class.php:628
+msgid "Disable Google Plus Profile:"
+msgstr "Google Plus Profili Devre Dışı:"
+
+#: aioseop_class.php:633
+msgid "Display Sitelinks Search Box:"
+msgstr "Site Bağlantıları Arama Kutusunu Göster:"
+
+#: aioseop_class.php:636
+msgid "Set Preferred Site Name:"
+msgstr "Tercih Edilen Site Adını Ayarla"
+
+#: aioseop_class.php:639
+msgid "Specify A Preferred Name:"
+msgstr "Tercih edilen bir isim belirt"
+
+#: aioseop_class.php:645
+msgid "Advanced Authorship Options:"
+msgstr "Gelişmiş Yazarlık Seçenekleri:"
+
+#: aioseop_class.php:655
+msgid "Display Google Authorship:"
+msgstr "Google Yazarlığını Görüntüle:"
+
+#: aioseop_class.php:661
+msgid "Display Publisher Meta on Front Page:"
+msgstr "Ön sayfada yayıncı Metasını göster:"
+
+#: aioseop_class.php:671
+msgid "Specify Publisher URL:"
+msgstr "Yayıncı URL'sini Belirt:"
+
+#: aioseop_class.php:677
+msgid "Google Analytics ID:"
+msgstr "Google Analytics ID:"
+
+#: aioseop_class.php:683
+msgid "Use Universal Analytics:"
+msgstr "Universal Analytics Kullan:"
+
+#: aioseop_class.php:694
+msgid "Advanced Analytics Options:"
+msgstr "İleri Analytics Seçenekleri:"
+
+#: aioseop_class.php:710
+msgid "Tracking Domain:"
+msgstr "Domain Takip:"
+
+#: aioseop_class.php:722
+msgid "Track Multiple Domains:"
+msgstr "Çoklu Domain Takip:"
+
+#: aioseop_class.php:734
+msgid "Additional Domains:"
+msgstr "Ek alan adları:"
+
+#: aioseop_class.php:747
+msgid "Anonymize IP Addresses:"
+msgstr "Tanımsız İP Adresleri::"
+
+#: aioseop_class.php:759
+msgid "Display Advertiser Tracking:"
+msgstr "Reklam veren takibini göster:"
+
+#: aioseop_class.php:771
+msgid "Exclude Users From Tracking:"
+msgstr "Takipten Hariç Tutulacak Kullanıcılar"
+
+#: aioseop_class.php:783
+msgid "Track Outbound Links:"
+msgstr "Giden Bağlantılar Takibi:"
+
+#: aioseop_class.php:795
+msgid "Enhanced Link Attribution:"
+msgstr "Geliştirilmiş Link Özellikleri:"
+
+#: aioseop_class.php:807
+msgid "Enhanced Ecommerce:"
+msgstr "Gelişmiş E-ticaret"
+
+#: aioseop_class.php:820
+msgid "Use Categories for META keywords:"
+msgstr "META anahtar kelimeleri için Kategorileri Kullan:"
+
+#: aioseop_class.php:825
+msgid "Use Tags for META keywords:"
+msgstr "META anahtar kelimeleri için Etiket Kullan"
+
+#: aioseop_class.php:830
+msgid "Dynamically Generate Keywords for Posts Page/Archives:"
+msgstr "Yazılar, Sayfalar/Arşiv için dinamik olarak anahtar kelime oluştur"
+
+#: aioseop_class.php:835
+msgid "Use noindex for Categories:"
+msgstr "Kategoriler için noindex kullan:"
+
+#: aioseop_class.php:839
+msgid "Use noindex for Date Archives:"
+msgstr "Tarih Arşivleri için noindex kullan:"
+
+#: aioseop_class.php:843
+msgid "Use noindex for Author Archives:"
+msgstr "Yazar Arşivi için noindex kullan:"
+
+#: aioseop_class.php:847
+msgid "Use noindex for Tag Archives:"
+msgstr "Etiket Arşivi için noindex kullan:"
+
+#: aioseop_class.php:851
+msgid "Use noindex for the Search page:"
+msgstr "Arama sayfası için noindex kullan:"
+
+#: aioseop_class.php:855
+msgid "Use noindex for the 404 page:"
+msgstr "404 sayfası için noindex kullan:"
+
+#: aioseop_class.php:859
+msgid "Use noindex for Taxonomy Archives:"
+msgstr "Sınıflandırma Arşivleri için noindex kullan:"
+
+#: aioseop_class.php:865
+msgid "Use noindex for paginated pages/posts:"
+msgstr "Numaralanmış sayfalar/yazılar için noindex kullan:"
+
+#: aioseop_class.php:869
+msgid "Use nofollow for paginated pages/posts:"
+msgstr "Numaralanmış sayfalar/yazılar için nofollow kullan:"
+
+#: aioseop_class.php:873
+msgid "Exclude site from the Open Directory Project:"
+msgstr "Siteyi Open Directory Project'ten hariç tut:"
+
+#: aioseop_class.php:877
+msgid "Exclude site from Yahoo! Directory:"
+msgstr "Siteyi Yahoo! Directory'den hariç tut:"
+
+#: aioseop_class.php:881
+msgid "Avoid Using The Excerpt In Descriptions:"
+msgstr "Açıklamalarda kısaltma kullanmaktan kaçın:"
+
+#: aioseop_class.php:885
+msgid "Autogenerate Descriptions:"
+msgstr "Açıklamaları otomatik oluştur:"
+
+#: aioseop_class.php:889
+msgid "Run Shortcodes In Autogenerated Descriptions:"
+msgstr "Otomatik oluşturulmuş açıklamalarda kısa kodları çalıştır:"
+
+#: aioseop_class.php:894
+msgid "Remove Descriptions For Paginated Pages:"
+msgstr "Numaralanmış sayfalar için açıklamaları kaldır:"
+
+#: aioseop_class.php:898
+msgid "Never Shorten Long Descriptions:"
+msgstr "Uzun açıklamaları asla kısaltma:"
+
+#: aioseop_class.php:902
+msgid "Use Schema.org Markup"
+msgstr "Schema.org Biçimlendirmesini Kullan"
+
+#: aioseop_class.php:906
+msgid "Unprotect Post Meta Fields:"
+msgstr "Yazı Meta Alanları Korumasını Kaldır:"
+
+#: aioseop_class.php:910
+msgid "Exclude Pages:"
+msgstr "Harici Sayfalar:"
+
+#: aioseop_class.php:915
+msgid "Additional Post Headers:"
+msgstr "Ek Yazı Başlıkları:"
+
+#: aioseop_class.php:921
+msgid "Additional Page Headers:"
+msgstr "Ek Sayfa Başlıkları:"
+
+#: aioseop_class.php:927
+msgid "Additional Front Page Headers:"
+msgstr "Ek Ön Sayfa Başlıkları:"
+
+#: aioseop_class.php:933
+msgid "Additional Blog Page Headers:"
+msgstr "Ek Blog Sayfası Başlıkları:"
+
+#: aioseop_class.php:939
+msgid "Log important events:"
+msgstr "Önemli olayları kayıt et:"
+
+#: aioseop_class.php:993
+msgid "Upgrade to All in One SEO Pack Pro Version"
+msgstr "All in One SEO Pack Pro Sürüme Yükselt"
+
+#: aioseop_class.php:1002
+msgid "Preview Snippet"
+msgstr "Snippet Önizleme"
+
+#: aioseop_class.php:1019 modules/aioseop_opengraph.php:366
+msgid "Title"
+msgstr "Başlık"
+
+#: aioseop_class.php:1025 modules/aioseop_opengraph.php:374
+msgid "Description"
+msgstr "Açıklama"
+
+#: aioseop_class.php:1033
+msgid "Keywords (comma separated)"
+msgstr "Anahtar kelimeler (virgül kullanın)"
+
+#: aioseop_class.php:1037
+msgid "Custom Canonical URL"
+msgstr "Özelleştirilmiş Canonical URL"
+
+#: aioseop_class.php:1042
+msgid "Robots Meta NOINDEX"
+msgstr "Robots Meta NOINDEX"
+
+#: aioseop_class.php:1046
+msgid "Robots Meta NOFOLLOW"
+msgstr "Robots Meta NOFOLLOW"
+
+#: aioseop_class.php:1049
+msgid "Robots Meta NOODP"
+msgstr "Robots Meta NOODP"
+
+#: aioseop_class.php:1050
+msgid "Robots Meta NOYDIR"
+msgstr "Robots Meta NOYDIR"
+
+#: aioseop_class.php:1052
+msgid "Title Attribute"
+msgstr "Başlık Özelliği"
+
+#: aioseop_class.php:1057
+msgid "Menu Label"
+msgstr "Menü Etiketi"
+
+#: aioseop_class.php:1061
+msgid "Exclude From Sitemap"
+msgstr "Site Haritasından Çıkar"
+
+#: aioseop_class.php:1062
+msgid "Disable on this page/post"
+msgstr "Bu sayfa/yazıyı iptal et"
+
+#: aioseop_class.php:1064
+msgid "Disable Google Analytics"
+msgstr "Google Analytics 'i iptal et"
+
+#: aioseop_class.php:1085 modules/aioseop_opengraph.php:529
+msgid "Home Page Settings"
+msgstr "Ana Sayfa Ayarları"
+
+#: aioseop_class.php:1193
+msgid "Keyword Settings"
+msgstr "Anahtar Kelime Ayarları"
+
+#: aioseop_class.php:1090
+msgid "Title Settings"
+msgstr "Başlık Ayarları"
+
+#: aioseop_class.php:1112
+msgid "Custom Post Type Settings"
+msgstr "Özel Yazı Türü Ayarları"
+
+#: aioseop_class.php:1117
+msgid "Display Settings"
+msgstr "Görünüm Ayarları"
+
+#: aioseop_class.php:1122
+msgid "Webmaster Verification"
+msgstr "Web Yöneticisi Doğrulama"
+
+#: aioseop_class.php:1127
+msgid "Google Settings"
+msgstr "Google Ayarları"
+
+#: aioseop_class.php:160
+msgid "%search% - What was searched for"
+msgstr "%search% - Arananlar"
+
+#: aioseop_class.php:161
+msgid "This controls the format of Meta Descriptions.The following macros are supported:"
+msgstr "Bu, meta açıklamalarının formatını kontrol eder. Şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:164
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr "%description% - Eklenti tarafından belirlenen orjinal açıklama, örn: bu seçenek ayarlanırsa tek tek ayarlamak veya otomatik oluşturulan ise alıntıdır"
+
+#: aioseop_class.php:166
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr "%wp_title% - Orjinal wordpress başlığı, örn: yazılar için post_title"
+
+#: aioseop_class.php:167
+msgid "This controls the format of the title tag for the 404 page.<br />The following macros are supported:"
+msgstr "Bu, 404 sayfası için başlık tag formatını kontrol eder.<br /> Şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:121
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - Yazının (ana) kategorisi"
+
+#: aioseop_class.php:122
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - %category_title% için diğer isim"
+
+#: aioseop_class.php:123 aioseop_class.php:3205
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% -  Yazı yazarının girişi"
+
+#: aioseop_class.php:124 aioseop_class.php:3206
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - Yazı yazarının rumuzu"
+
+#: aioseop_class.php:125 aioseop_class.php:3207
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - Yazı yazarının ilk ismi (büyük harifli)"
+
+#: aioseop_class.php:126 aioseop_class.php:3208
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - Yazı yazarının soyismi (büyük harifli)"
+
+#: aioseop_class.php:128
+msgid "This controls the format of the title tag for Category Archives.<br />The following macros are supported:"
+msgstr "Bu kategori arşivleri için başlık tag formatını kontrol eder.<br /> Şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:131
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - Kategorinin orjinal başlığı"
+
+#: aioseop_class.php:132
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - Kategori açıklaması"
+
+#: aioseop_class.php:134
+msgid "This controls the format of the title tag for Custom Post Archives.<br />The following macros are supported:"
+msgstr "Bu özel yazı arşivleri için başlık tag formatını kontrol eder.<br /> Şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:137
+msgid "%archive_title - The original archive title given by wordpress"
+msgstr "%archive_title - WordPress tarafından verilen orijinal arşiv başlığı"
+
+#: aioseop_class.php:139
+msgid "This controls the format of the title tag for Date Archives.<br />The following macros are supported:"
+msgstr "Bu, tarih arşivleri için başlık etiket formatını kontrol eder.<br /> Şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:142
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - Wordpress tarafından verilen orjinal arşiv başlığı, örn: \"2007\" veya \"2007 Agustos\""
+
+#: aioseop_class.php:143
+msgid "%day% - The original archive day given by wordpress, e.g. \"17\""
+msgstr "%day% - Wordpress tarafından verilen orjinal arşiv günü, örn: \"17\""
+
+#: aioseop_class.php:144
+msgid "%month% - The original archive month given by wordpress, e.g. \"August\""
+msgstr "%month% -  Wordpress tarafından verilen orjinal arşiv ayı, örn: \"Agustos\""
+
+#: aioseop_class.php:145
+msgid "%year% - The original archive year given by wordpress, e.g. \"2007\""
+msgstr "%year% - Wordpress tarafından verilen orjinal arşiv yılı, örn: \"2007\""
+
+#: aioseop_class.php:147
+msgid "This controls the format of the title tag for Author Archives.<br />The following macros are supported:"
+msgstr "Bu, yazar arşivleri için başlık etiket formatını kontrol eder.<br /> Şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:150
+msgid "%author% - The original archive title given by wordpress, e.g. \"Steve\" or \"John Smith\""
+msgstr "%author% - Wordpress tarafından verilen orjinal arşiv başlığı, örn \"Steve\" veya \"John Smith\""
+
+#: aioseop_class.php:152
+msgid "This controls the format of the title tag for Tag Archives.<br />The following macros are supported:"
+msgstr "Bu, etiket arşivleri için başlık etiket formatını kontrol eder.<br /> Şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:155
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - Etiket ismi"
+
+#: aioseop_class.php:157
+msgid "This controls the format of the title tag for the Search page.<br />The following macros are supported:"
+msgstr "Bu arama sayfası için başlık tag formatını kontrol eder.<br /> Şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:101 aioseop_class.php:110 aioseop_class.php:119
+#: aioseop_class.php:130 aioseop_class.php:136 aioseop_class.php:141
+#: aioseop_class.php:149 aioseop_class.php:154 aioseop_class.php:159
+#: aioseop_class.php:163 aioseop_class.php:169 aioseop_class.php:3196
+#: aioseop_class.php:3248
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - Blog açıklamanız"
+
+#: aioseop_class.php:102 aioseop_class.php:111
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - Sayfanın orjinal başlığı"
+
+#: aioseop_class.php:103 aioseop_class.php:112
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - Sayfa yazarının girişi"
+
+#: aioseop_class.php:104 aioseop_class.php:113
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% -  Sayfa yazarının rumuzu"
+
+#: aioseop_class.php:105 aioseop_class.php:114
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - Sayfa yazarının ilk ismi (büyük harifli)"
+
+#: aioseop_class.php:106 aioseop_class.php:115
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - Sayfa yazarının soyismi (büyük harifli)"
+
+#: aioseop_class.php:108
+msgid "This controls the format of the title tag for Pages.<br />The following macros are supported:"
+msgstr "Bu, sayfalar için başlık etiket formatını kontrol eder.<br /> şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:117
+msgid "This controls the format of the title tag for Posts.<br />The following macros are supported:"
+msgstr "Bu, yazılar için başlık tag formatını kontrol eder.<br /> Şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:120 aioseop_class.php:165
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - Yazının orjinal başlığı"
+
+#: aioseop_class.php:83
+msgid "Checking this option will allow you to customize Canonical URLs for specific posts."
+msgstr "Bu seçeneği işaretlemek, belirli yazılar için Canonical URL'leri düzenlemenize imkan verecektir."
+
+#: aioseop_class.php:84
+msgid "Set protocol for canonical URLs."
+msgstr "Canonical URL'ler için protokol ayarla."
+
+#: aioseop_class.php:85
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "Tema tarafından kullanılan başlığı elde etmek için wp_title'ı kullan; bu varsayılan olarak devre dışıdır. Eğer bu seçeneği kullanırsanız, temanızın da kendi başlıklarına SEO uygulamayı deniyor olabilmesinden, başlık formatlarınızı düzgün bir şekilde ayarlayın."
+
+#: aioseop_class.php:86
+msgid "Check this and All in One SEO Pack will create a log of important events (all-in-one-seo-pack.log) in its plugin directory which might help debugging. Make sure this directory is writable."
+msgstr "Bunu işaretlerseniz, All in One SEO Pack, kendi eklenti dizininde, hata ayıklamaya yardımcı olabilecek önemli olayların günlüğünü (all-in-one-seo-pack.log) oluşturacak. Bu dizinin yazılabilir olduğundan emin olun."
+
+#: aioseop_class.php:87
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "Adından da anlaşılacağı gibi, bu ana sayfanız için Meta Başlığı olacaktır. Bu diğer herhangi bir seçenekten bağımsızdır. Ayarlı değilse, varsayılan Site Başlığı (WordPress, Ayarlar, Genel, Site Başlığı altında bulunan) kullanılacaktır. "
+
+#: aioseop_class.php:88
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "Bu ana sayfanız için meta açıklaması olacaktır. Bu diğer herhangi bir seçenekten bağımsızdır. ayarlı değilse, varsayılan meta Açıklamasının olmamasıdır."
+
+#: aioseop_class.php:90
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "Bu seçeneği işaretlemek sabitlenmiş Ön Sayfanız için ayarlanmış başlık, açıklama ve anahtar kelimeleri kullanır."
+
+#: aioseop_class.php:91
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Bu seçenek, tüm sitede Meta Anahtar Kelime kullanımını değiştirme imkanı verir."
+
+#: aioseop_class.php:92
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Belirli bir yazı için olan kategorilerinizin bu yazı için meta anahtar kelimeler olarak kullanılmasını istiyorsanız bunu işaretleyin (Yazı Düzenleme ekranında belirteceğiniz anahtar kelimelere ek olarak)."
+
+#: aioseop_class.php:93
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Belirli bir yazı için olan etiketlerininiz bu yazı için meta anahtar kelimeler olarak kullanılmasını istiyorsanız bunu işaretleyin (Yazı Düzenleme ekranında belirteceğiniz anahtar kelimelere ek olarak)."
+
+#: aioseop_class.php:94
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Yazılar sayfasındaki (WordPress'te Ayarlar, Okuma, Ön Sayfa Görünümleri altında ayarlanmış) ve  arşiv sayfalarınızdaki anahtar kelimelerin o sayfada gösterilen yazılardan dinamik olarak üretilmesini istiyorsanız bunu işaretleyin. Eğer işaretli değilse, yazılar sayfası için sayfa düzenle ekranında ayarlanan anahtar kelimeler kullanılacak."
+
+#: aioseop_class.php:95
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the title bar and in the source code. If enabled, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: Using the default post title format below, Rewrite Titles will write all post titles as 'Post Title | Blog Name'. If you have manually defined a title using All in One SEO Pack, this will become the title of your post in the format string."
+msgstr "Bunun tamamen başlık etiketi ile alakalı olduğunu unutmayın. bu, tarayıcınızın pencere başlık çubuğunda gördüğünüz şeydir. Yalnızca başlık çubuğunda ve kaynak kodunda görünen, sayfada görünür OLMAYAN bir şeydir. Etkinse, tüm sayfa, yazı, kategori, arama ve arşiv sayfa başlıkları tekrardan yazılır. Birçoğu için formatı belirleyebilirsiniz. Örneğin: Başlıkları tekrar yaz varsayılan yazı formatını kullanmak,  tüm yazı başlıklarını 'Yazı Başlığı | Blog Adı' şeklinde yeniden yazacaktır. All in One SEO Pack kullanarak manuel olarak bir başlık tanımladıysanız, bu, yazınızın format satırındaki başlığı halini alacaktır."
+
+#: aioseop_class.php:96
+msgid "Check this and Search Page Titles and Tag Page Titles will have the first letter of each word capitalized."
+msgstr "Bunu işaretlerseniz, arama sayfası başlıkları ve etiket sayfası başlıklarında her kelimenin ilk harfi büyük olacaktır. "
+
+#: aioseop_class.php:97
+msgid "Check this and Category Titles will have the first letter of each word capitalized."
+msgstr "Bunu işaretlerseniz, Kategori Başlıklarında her kelimenin ilk harfi büyük olacaktır."
+
+#: aioseop_class.php:99
+msgid "This controls the format of the title tag for your Home Page.<br />The following macros are supported:"
+msgstr "Bu, Ana sayfanız için başlık etiket formatını kontrol eder.<br /> şu makrolar desteklenmektedir:"
+
+#: aioseop_class.php:100 aioseop_class.php:109 aioseop_class.php:118
+#: aioseop_class.php:129 aioseop_class.php:135 aioseop_class.php:140
+#: aioseop_class.php:148 aioseop_class.php:153 aioseop_class.php:158
+#: aioseop_class.php:162 aioseop_class.php:168 aioseop_class.php:3195
+#: aioseop_class.php:3247
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - Blog başlığı"
+
+#: aioseop_class.php:79
+msgid "All donations support continued development of this free software."
+msgstr "Tüm bağışlar bu ücretsiz yazılımın gelişimini desteklemektedir."
+
+#: aioseop_class.php:81
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation.  This will help to prevent duplicate content penalties by <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a>."
+msgstr "Bu seçenek otomatik olarak tüm WordPress kurulum girdileri için Standart URL ler üretecektir. <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a> tarafından yinelenen içerik cezalarını önlemeye yardımcı olacaktır."
+
+#: aioseop_class.php:82
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "Bu seçeneği işaretlemek, tüm numaralanmış içerik için Canonical URL'yi ilk sayfa olarak ayarlayacaktır."
+
+#: modules/aioseop_bad_robots.php:17 modules/aioseop_feature_manager.php:49
+msgid "Bad Bot Blocker"
+msgstr "Kötü bot engelleyici"
+
+#: modules/aioseop_bad_robots.php:23
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "503 ile uygunsuz davranış sergilediği bilinen user agent isteklerini engelle."
+
+#: modules/aioseop_bad_robots.php:25
+msgid "Log and show recent requests from blocked bots."
+msgstr "Engellenmiş botlardan gelen son istekleri kaydet ve göster."
+
+#: modules/aioseop_bad_robots.php:27
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "Kötü botları engellemek için izin verilmeyen user agentların listesini düzenlemek için bunu onaylayın."
+
+#: modules/aioseop_bad_robots.php:28
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "Bu, kötü botları engellemek için izin verilmeyen user agentların listesidir."
+
+#: modules/aioseop_bad_robots.php:29
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "Bu kötü botları engellemek için izin verilmeyen refererlerin listesidir."
+
+#: modules/aioseop_bad_robots.php:30
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "Engellenmiş botlardan gelen en güncel istek kayıtlarını gösterir. Not: Bu, web sunucusunda / .htaccess seviyesinde engellenmiş botları takip etmeyecektir."
+
+#: modules/aioseop_bad_robots.php:36
+msgid "Track Blocked Bots"
+msgstr "Engellenen botları izle"
+
+#: modules/aioseop_bad_robots.php:40
+msgid "User Agent Blocklist"
+msgstr "User Agent engellenen listesi"
+
+#: modules/aioseop_bad_robots.php:48
+msgid "Referer Blocklist"
+msgstr "Referer Engeleme Listesi"
+
+#: modules/aioseop_bad_robots.php:59
+msgid "Log Of Blocked Bots"
+msgstr "Engellenen botların kaydı"
+
+#: modules/aioseop_bad_robots.php:60
+msgid "No requests yet."
+msgstr "Henüz bir talep yok."
+
+#: modules/aioseop_bad_robots.php:103
+msgid "Blocked bot with IP %s -- matched user agent %s found in blocklist."
+msgstr "%s IP ile engellenen bot -- eşleşen user agent %s engellenen listesinde bulundu."
+
+#: modules/aioseop_bad_robots.php:109
+msgid "Blocked bot with IP %s -- matched referer %s found in blocklist."
+msgstr "%s IP ile engellenen bot -- eşleşen referer %s engelleme listesinde bulundu."
+
+#: modules/aioseop_bad_robots.php:157
+msgid "Apache module %s is required!"
+msgstr "Apache modülü %s gerekli!"
+
+#: modules/aioseop_bad_robots.php:144 modules/aioseop_bad_robots.php:177
+msgid "Updated .htaccess rules."
+msgstr ".htaccess kuralları güncellendi."
+
+#: modules/aioseop_bad_robots.php:146 modules/aioseop_bad_robots.php:179
+msgid "Failed to update .htaccess rules!"
+msgstr ".htaccess kurallarını güncellemekte başarısız olundu!"
+
+#: modules/aioseop_bad_robots.php:182
+msgid "No rules to update!"
+msgstr "Güncellenecek kural yok!"
+
+#: aioseop_class.php:68
+msgid "%s Plugin Options"
+msgstr "%s Eklenti Ayarları"
+
+#: aioseop_class.php:69 aioseop_class.php:1080
+#: modules/aioseop_opengraph.php:524
+msgid "General Settings"
+msgstr "Genel Ayarlar"
